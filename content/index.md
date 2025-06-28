@@ -8,8 +8,8 @@ $$
 # Test align
 $$
 
-\begin{align}
+\begin{align*}
 a+b &=c \\
 cx-8 +b &= a
-\end{align}
+\end{align*}
 $$

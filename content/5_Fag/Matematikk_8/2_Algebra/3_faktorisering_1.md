@@ -24,21 +24,25 @@ $$
 $$
 
 **Eksempel 2:**
-$$\begin{align}
+$$
 
+\begin{align}
 18 &= 2 \times 9 \\
 &= 2 \times 3 \times 3 \\
 &= 2 \times 3^2
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 3:**
-$$\begin{align}
+$$
 
+\begin{align}
 24 &= 2 \times 12 \\
 &= 2 \times 2 \times 6 \\
 &= 2 \times 2 \times 2 \times 3 \\
 &= 2^3 \times 3
-\end{align}$$
+\end{align}
+$$
 
 ## Faktorisering av variabler
 
@@ -46,19 +50,28 @@ $$\begin{align}
 En variabel med eksponent kan skrives som gjentatt multiplikasjon.
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$
+
+\begin{align}
 x^3 &= x \times x \times x
-\end{aligned}$$
+\end{align}
+$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$
+
+\begin{align}
 y^4 &= y \times y \times y \times y
-\end{aligned}$$
+\end{align}
+$$
 
 **Eksempel 3:**
-$$\begin{aligned}
+$$
+
+\begin{align}
 a^2 &= a \times a
-\end{aligned}$$
+\end{align}
+$$
 
 ## Faktorisering av sammensatte uttrykk
 
@@ -66,28 +79,34 @@ a^2 &= a \times a
 Vi kan faktorisere både tallene og variablene.
 
 **Eksempel 1:**
-$$\begin{align}
+$$
 
+\begin{align}
 8x^3y &= 8 \times x^3 \times y \\
 &= 2 \times 2 \times 2 \times x \times x \times x \times y \\
 &= 2^3 \times x^3 \times y
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 2:**
-$$\begin{align}
+$$
 
+\begin{align}
 12a^2b &= 12 \times a^2 \times b \\
 &= 2 \times 2 \times 3 \times a \times a \times b \\
 &= 2^2 \times 3 \times a^2 \times b
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 3:**
-$$\begin{align}
+$$
 
+\begin{align}
 18x^2y^3 &= 18 \times x^2 \times y^3 \\
 &= 2 \times 3^2 \times x^2 \times y^3 \\
 &= 2 \times 3 \times 3 \times x \times x \times y \times y \times y
-\end{align}$$
+\end{align}
+$$
 
 ## Å finne største felles faktor (GFF)
 
@@ -95,11 +114,13 @@ $$\begin{align}
 For å finne GFF, faktoriser begge tallene og finn felles faktorer.
 
 **Eksempel:** GFF av 12 og 18
-$$\begin{align}
+$$
 
+\begin{align}
 12 &= 2^2 \times 3 \\
 18 &= 2 \times 3^2
-\end{align}$$
+\end{align}
+$$
 
 Felles faktorer: $2^1 \times 3^1 = 6$
 
@@ -122,27 +143,33 @@ GFF = 4x²y
 ## Praktiske eksempler
 
 ### Eksempel 1: Enkel faktorisering
-$$\begin{align}
+$$
 
+\begin{align}
 6x &= 6 \times x \\
 &= 2 \times 3 \times x
-\end{align}$$
+\end{align}
+$$
 
 ### Eksempel 2: Med potenser
-$$\begin{align}
+$$
 
+\begin{align}
 15a^3 &= 15 \times a^3 \\
 &= 3 \times 5 \times a \times a \times a \\
 &= 3 \times 5 \times a^3
-\end{align}$$
+\end{align}
+$$
 
 ### Eksempel 3: Flere variabler
-$$\begin{align}
+$$
 
+\begin{align}
 20x^2y^3z &= 20 \times x^2 \times y^3 \times z \\
 &= 2^2 \times 5 \times x^2 \times y^3 \times z \\
 &= 4 \times 5 \times x \times x \times y \times y \times y \times z
-\end{align}$$
+\end{align}
+$$
 
 ## Hvorfor er dette viktig?
 

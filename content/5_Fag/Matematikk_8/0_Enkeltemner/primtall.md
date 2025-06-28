@@ -2,7 +2,7 @@
 
 ## Definisjon
 
-Et primtall er et naturlig tall større enn 1 som bare er delelig med seg selv og 1[1][4]. Dette betyr at når vi deler et primtall på andre tall, får vi ikke hele tall som svar[7].
+Et primtall er et naturlig tall større enn 1 som bare er delelig med seg selv og 1. Dette betyr at når vi deler et primtall på andre tall, får vi ikke hele tall som svar.
 
 **Eksempel:** 5 er et primtall fordi:
 - 5 ÷ 1 = 5 (helt tall)

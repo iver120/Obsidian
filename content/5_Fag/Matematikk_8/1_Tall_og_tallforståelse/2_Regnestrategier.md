@@ -17,34 +17,40 @@ Regnestrategier bygger på forståelse av tallsystemet og matematiske egenskaper
 Del tallene opp i hundrere, tiere og enere, og legg sammen hver kategori for seg.
 
 **Eksempel 1:** $456 + 539$
-$$\begin{align}
+$$
 
+\begin{align}
 456 + 539 &= (400 + 50 + 6) + (500 + 30 + 9) \\  
 &= 400 + 500 + 50 + 30 + 6 + 9  \\
 &= 900 + 80 + 15  \\
 &= 995
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 2:** $287 + 345$
 
-$$\begin{align}
+$$
 
+\begin{align}
 287 + 345 &= (200 + 80 + 7) + (300 + 40 + 5)  \\
 &= 500 + 120 + 12  \\
 &= 632
-\end{align}$$
+\end{align}
+$$
 
 ### Hoppe-strategi
 
 Hopp til nærmeste tiere eller hundrer først.
 
 **Eksempel:** $398 + 156$
-$$\begin{align}
+$$
 
+\begin{align}
 398 + 156 &= 398 + 2 + 154  \\
 &= 400 + 154  \\
 &= 554
-\end{align}$$
+\end{align}
+$$
 
 ### Kompensasjonsstrategi
 
@@ -52,9 +58,12 @@ Gjør ett tall rundere, og juster det andre tilsvarende.
 
 **Eksempel:** $29 + 47$
 
-$$\begin{aligned}
+$$
+
+\begin{align}
 29 + 47 = 30 + 46 = 76  
-\end{aligned}$$
+\end{align}
+$$
 legger til 1 på 29, trekker fra 1 på 47 
 
 ## Strategier for subtraksjon
@@ -63,13 +72,15 @@ legger til 1 på 29, trekker fra 1 på 47
 
 **Eksempel:** $756 - 234$
 
-$$\begin{align}
+$$
 
+\begin{align}
 756 - 234 &= (700 + 50 + 6) - (200 + 30 + 4)  \\
 &= (700 - 200) + (50 - 30) + (6 - 4)  \\
 &= 500 + 20 + 2  \\
 &= 522
-\end{align}$$
+\end{align}
+$$
 
 ### Opp-til-strategi
 
@@ -78,13 +89,15 @@ Tell opp fra det minste tallet til det største.
 **Eksempel:** $82 - 37$
 Telle fra fra 37 til 82:  
 
-$$\begin{align}
+$$
 
+\begin{align}
 37 &→ 40 (+ 3)  \\
 40 &→ 80 (+ 40)  \\
 80 &→ 82 (+ 2)  \\
-Totalt: 3 + 40 + 2 = 45
-\end{align}$$
+\text{Totalt: } 3 + 40 + 2 &= 45
+\end{align}
+$$
 
 ## Strategier for multiplikasjon
 
@@ -94,23 +107,27 @@ Del opp en eller begge faktorene.
 
 **Eksempel 1:** $43 \times 12$
 
-$$\begin{align}
+$$
 
+\begin{align}
 43 × 12 &= (40 + 3) × 12  \\
 &= 40 × 12 + 3 × 12  \\
 &= 480 + 36  \\
 &= 516
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 2:** $25 \times 16$
 
-$$\begin{align}
+$$
 
+\begin{align}
 25 × 16 &= (20 + 5) × (10 + 6)  \\
 &= 20 × 10 + 20 × 6 + 5 × 10 + 5 × 6  \\
 &= 200 + 120 + 50 + 30  \\
-&= 400 \\
-\end{align}$$
+&= 400
+\end{align}
+$$
 
 ### [[Faktorisering]]
 
@@ -118,37 +135,46 @@ Finn enkle faktorer.
 
 **Eksempel:** $15 \times 24$
 
-$$\begin{align}
+$$
 
+\begin{align}
 15 × 24 &= 15 × 8 × 3  \\
 &= 120 × 3  \\
 &= 360
-\end{align}$$
+\end{align}
+$$
 eller: 
 
-$$\begin{align}
+$$
+
+\begin{align}
 15 × 24 &= 3 × 5 × 8 × 3  \\
 &= 3 × 3 × 5 × 8  \\
 &= 9 × 40  \\
 &= 360
-\end{align}$$
+\end{align}
+$$
 
 ### Dobling og halvering
 
 **Eksempel:** $25 \times 16$
 25 × 16 = 50 × 8 = 100 × 4 = 400  
 (dobler 25, halverer 16 to ganger)
+
 ### Nære ti-tall
 
 **Eksempel:** $19 \times 23$
 
-$$\begin{align}
+$$
 
+\begin{align}
 19 × 23 &= (20 - 1) × (20 + 3)  \\
 &= 20 × 20 + 20 × 3 - 1 × 20 - 1 × 3 \\  
 &= 400 + 60 - 20 - 3  \\
 &= 437
-\end{align}$$
+\end{align}
+$$
+
 ## Strategier for divisjon
 
 ### Oppdeling
@@ -157,24 +183,27 @@ Del tallet opp i deler som er lette å dividere.
 
 **Eksempel 1:** $615 \div 3$
 
-$$\begin{align}
+$$
 
+\begin{align}
 615 ÷ 3 &= (600 + 15) ÷ 3  \\
 &= 600 ÷ 3 + 15 ÷ 3  \\
 &= 200 + 5  \\
-&= 205 \\
-\end{align}$$
+&= 205
+\end{align}
+$$
 
 **Eksempel 2:** $448 \div 4$
 
+$$
 
-$$\begin{align}
-
+\begin{align}
 448 ÷ 4 &= (400 + 48) ÷ 4  \\
 &= 400 ÷ 4 + 48 ÷ 4  \\
 &= 100 + 12  \\
-&= 112 \\
-\end{align}$$
+&= 112
+\end{align}
+$$
 
 ### Multiplikasjon baklengs
 
@@ -194,12 +223,14 @@ Så: 156 ÷ 6 = 26
 
 **Eksempel:** $12 \times 25 + 8 \times 25$
 
-$$\begin{align}
+$$
 
+\begin{align}
 12 × 25 + 8 × 25 &= (12 + 8) × 25  \\
 &= 20 × 25  \\
 &= 500
-\end{align}$$
+\end{align}
+$$
 
 ### Strategisk bruk av parenteser
 
@@ -208,13 +239,14 @@ Strategi 1:
 $$(23 + 17) × 5 = 40 × 5 = 200$$
 
 Strategi 2: 
-$$\begin{align}
+$$
 
+\begin{align}
 (23 + 17) × 5 &= 23 × 5 + 17 × 5  \\
 &= 115 + 85  \\
 &= 200
-\end{align}$$
-
+\end{align}
+$$
 
 ## Valg av strategi
 
@@ -254,5 +286,3 @@ $$\begin{align}
 5. **Tenk fleksibelt** - Det finnes ofte flere riktige måter å løse samme oppgave
 
 Regnestrategier gjør deg ikke bare raskere i regning - de gir deg også dypere forståelse for hvordan tall fungerer sammen!
-
-

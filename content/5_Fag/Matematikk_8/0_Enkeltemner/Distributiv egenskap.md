@@ -16,85 +16,104 @@ Tenk på $3(x + 4)$ som "3 ganger summen av x og 4". Vi kan dele dette opp i "3 
 
 ### Med tall
 **Eksempel 1:**
-$$\begin{align}
+$$
 
+\begin{align}
 5(3 + 2) &= 5 \cdot 3 + 5 \cdot 2 \\
 &= 15 + 10 \\
 &= 25
-\end{align}$$
+\end{align}
+$$
 
 Kontroll: $5(3 + 2) = 5 \cdot 5 = 25$ ✓
 
 **Eksempel 2:**
-$$\begin{align}
+$$
 
+\begin{align}
 4(7 - 3) &= 4 \cdot 7 - 4 \cdot 3 \\
 &= 28 - 12 \\
 &= 16
-\end{align}$$
+\end{align}
+$$
 
 Kontroll: $4(7 - 3) = 4 \cdot 4 = 16$ ✓
 
 ### Med variabler
 **Eksempel 3:**
-$$\begin{align}
+$$
 
+\begin{align}
 3(x + 5) &= 3 \cdot x + 3 \cdot 5 \\
 &= 3x + 15
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 4:**
-$$\begin{align}
+$$
 
+\begin{align}
 2(y - 4) &= 2 \cdot y - 2 \cdot 4 \\
 &= 2y - 8
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 5:**
-$$\begin{align}
+$$
 
+\begin{align}
 x(x + 3) &= x \cdot x + x \cdot 3 \\
 &= x^2 + 3x
-\end{align}$$
+\end{align}
+$$
 
 ## Distributiv egenskap med subtraksjon
 
 **Viktig:** Når vi ganger inn i parenteser med subtraksjon, må vi passe på fortegnene.
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 -3(x + 2) &= -3 \cdot x + (-3) \cdot 2 \\
 &= -3x + (-6) \\
 &= -3x - 6
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 -2(y - 5) &= -2 \cdot y - (-2) \cdot 5 \\
 &= -2y - (-10) \\
 &= -2y + 10
-\end{align}$$
+\end{align}
+$$
 
 ## Mer komplekse uttrykk
 
 ### Flere ledd i parentesen
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 4(2x + 3y - 1) &= 4 \cdot 2x + 4 \cdot 3y + 4 \cdot (-1) \\
 &= 8x + 12y - 4
-\end{align}$$
+\end{align}
+$$
 
 ### Variabel foran parentesen
 $$a(b + c + d) = ab + ac + ad$$
 
 **Eksempel:**
-$$\begin{aligned}
+$$
+
+\begin{align}
 2x(3y + 4z - 2) &= 2x \cdot 3y + 2x \cdot 4z + 2x \cdot (-2) \\
 &= 6xy + 8xz - 4x
-\end{aligned}$$
+\end{align}
+$$
 
 ## Gange ut parenteser (to parenteser)
 
@@ -106,22 +125,27 @@ For $(a + b)(c + d)$ bruker vi FOIL:
 - **L**ast: $b \cdot d$
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 (x + 3)(x + 2) &= x \cdot x + x \cdot 2 + 3 \cdot x + 3 \cdot 2 \\
 &= x^2 + 2x + 3x + 6 \\
 &= x^2 + 5x + 6
-\end{align}$$
+\end{align}
+$$
 
 ### Systematisk metode
 Gange første ledd i første parentes med alle ledd i andre parentes, så andre ledd i første parentes med alle ledd i andre parentes.
 
 **Eksempel:**
-$$\begin{aligned}
+$$
+
+\begin{align}
 (2x + 1)(x + 4) &= 2x(x + 4) + 1(x + 4) \\
 &= 2x^2 + 8x + x + 4 \\
 &= 2x^2 + 9x + 4
-\end{aligned}$$
+\end{align}
+$$
 
 ## Spesielle tilfeller
 
@@ -129,70 +153,84 @@ $$\begin{aligned}
 $$(a + b)^2 = (a + b)(a + b) = a^2 + 2ab + b^2$$
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 (x + 3)^2 &= x^2 + 2 \cdot x \cdot 3 + 3^2 \\
 &= x^2 + 6x + 9
-\end{align}$$
+\end{align}
+$$
 
 ### Kvadrat av differanse
 $$(a - b)^2 = (a - b)(a - b) = a^2 - 2ab + b^2$$
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 (x - 4)^2 &= x^2 - 2 \cdot x \cdot 4 + 4^2 \\
 &= x^2 - 8x + 16
-\end{align}$$
+\end{align}
+$$
 
 ### Differanse av kvadrater
 $$(a + b)(a - b) = a^2 - b^2$$
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 (x + 5)(x - 5) &= x^2 - 5^2 \\
 &= x^2 - 25
-\end{align}$$
+\end{align}
+$$
 
 ## Omvendt distributiv egenskap (faktorisering)
 
 Vi kan også gå den andre veien - fra utganget uttrykk til faktorisert form.
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 6x + 9 &= 3 \cdot 2x + 3 \cdot 3 \\
 &= 3(2x + 3)
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 x^2 + 3x &= x \cdot x + x \cdot 3 \\
 &= x(x + 3)
-\end{align}$$
+\end{align}
+$$
 
 ## Praktiske anvendelser
 
 ### I likninger
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 3(x + 4) &= 21 \\
 3x + 12 &= 21 \quad \text{(gange inn)} \\
 3x &= 21 - 12 \\
 3x &= 9 \\
 x &= 3
-\end{align}$$
+\end{align}
+$$
 
 ### Forenkling av uttrykk
 **Eksempel:**
-$$\begin{align}
+$$
 
+\begin{align}
 2(x + 3) + 4(x - 1) &= 2x + 6 + 4x - 4 \\
 &= 6x + 2
-\end{align}$$
+\end{align}
+$$
 
 ## Vanlige feil
 
