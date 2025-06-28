@@ -15,6 +15,7 @@ Enhver tall kan skrives som et produkt av [[Primtall]].
 
 **Eksempel 1:**
 $$
+
 \begin{align}
 8 &= 2 \times 4 \\
 &= 2 \times 2 \times 2 \\
