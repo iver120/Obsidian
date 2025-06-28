@@ -11,7 +11,7 @@ Faktorisering handler om å dele opp tall og uttrykk i sine grunnleggende byggek
 $$12 = 2 \times 6 = 2 \times 2 \times 3 = 2^2 \times 3$$
 
 ### Primtallsfaktorisering av tall
-Enhver tall kan skrives som et produkt av [[Primtall]].
+Enhver tall kan skrives som et produkt av [[primtall]].
 
 **Eksempel 1:**
 $$

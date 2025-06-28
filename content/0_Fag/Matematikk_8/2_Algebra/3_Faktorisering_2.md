@@ -1,6 +1,6 @@
 # Faktorisering av algebraiske uttrykk
 
-I algebra er også [[faktorisering]] prosessen med å skrive et algebraisk uttrykk som et produkt av enklere faktorer. Det er det motsatte av å gange ut parenteser (distributiv egenskap), og er en av de viktigste ferdighetene i algebra.
+I algebra er også [[Faktorisering]] prosessen med å skrive et algebraisk uttrykk som et produkt av enklere faktorer. Det er det motsatte av å gange ut parenteser (distributiv egenskap), og er en av de viktigste ferdighetene i algebra.
 
 **Eksempel:**
 - $6x + 9$ kan faktoriseres til $3(2x + 3)$
