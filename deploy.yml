@@ -18,16 +18,18 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - uses: actions/setup-node@v4
+      - name: Force Node.js 22.x
+        uses: actions/setup-node@v4
         with:
           node-version: '22.x'
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
+          check-latest: true
+      - name: Verify Node version
+        run: |
+          node --version
+          npm --version
       - name: Clear npm cache
         run: npm cache clean --force
       - name: Install Dependencies
@@ -44,7 +46,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
