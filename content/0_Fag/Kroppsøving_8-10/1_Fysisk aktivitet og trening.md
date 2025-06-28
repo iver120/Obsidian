@@ -62,7 +62,7 @@ Som student har du perioder med mye læring og stress. Da kan det være lurt å:
 I de neste sidene skal vi utforske spesifikke treningsformer:
 - [[2_Styrketrening]] - Hvordan bygge muskelstyrke og kraft
 - [[3_Utholdenhetstrening]] - Hvordan forbedre kardiovaskulær kapasitet
-- [[4_Trening og helse]] - Hvordan trening påvirker hele livet ditt
+- [[4_Trening og helse - grunnleggende]] - Hvordan trening påvirker hele livet ditt
 
 **Husk:** Det perfekte er ikke det godes fiende. Både litt fysisk aktivitet og litt trening er bedre enn ingenting. Start der du er, og bygg gradvis.
 

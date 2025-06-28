@@ -83,8 +83,8 @@ Det som teller er at du begynner, ikke at du er perfekt fra start.
 ## Vil du vite mer?
 
 For mer detaljert informasjon om spesifikk trening, se:
-- [[Styrketrening]] - Hvordan bygge muskelstyrke
-- [[Utholdenhetstrening]] - Hvordan forbedre kondisjon
+- [[2_Styrketrening]] - Hvordan bygge muskelstyrke
+- [[3_Utholdenhetstrening]] - Hvordan forbedre kondisjon
 - [[5_Trening og helse - forskning]] - Vitenskapelig bakgrunn og studier
 
 **Husk:** Målet er ikke å bli best i klassen, men å finne en treningsform som gjør deg friskere og gladere på lang sikt[4].
