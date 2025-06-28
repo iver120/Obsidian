@@ -1,5 +1,4 @@
-cat > .github/workflows/deploy.yml << 'EOF'
-name: Deploy-Quartz
+name: Deploy
 
 on:
   push:
@@ -32,4 +31,3 @@ jobs:
       name: github-pages
     steps:
       - uses: actions/deploy-pages@v4
-EOF
