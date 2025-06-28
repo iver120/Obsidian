@@ -20,28 +20,28 @@ Når alle ledd i et uttrykk har en felles faktor, kan vi "ta den ut".
 **Eksempel 1:**
 $$
 
-\begin{align}
+\begin{align*}
 6x + 9 &= 3 \cdot 2x + 3 \cdot 3 \\
 &= 3(2x + 3)
-\end{align}
+\end{align*}
 $$
 
 **Eksempel 2:**
 $$
 
-\begin{align}
+\begin{align*}
 4a^2 + 8a &= 4a \cdot a + 4a \cdot 2 \\
 &= 4a(a + 2)
-\end{align}
+\end{align*}
 $$
 
 **Eksempel 3:**
 $$
 
-\begin{align}
+\begin{align*}
 12x^2y - 18xy^2 &= 6xy \cdot 2x - 6xy \cdot 3y \\
 &= 6xy(2x - 3y)
-\end{align}
+\end{align*}
 $$
 
 ### Systematisk fremgangsmåte

@@ -19,11 +19,11 @@ En likning er som en vektskål - det som gjøres på den ene siden, må gjøres 
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 x + 3 &= 7 \\
 x + 3 - 3 &= 7 - 3 \quad \text{(trekker fra 3 på begge sider)} \\
 x &= 4
-\end{align}
+\end{align*}
 $$
 
 ### Fire grunnoperasjoner for å løse likninger
@@ -31,41 +31,41 @@ $$
 **1. Addisjon på begge sider:**
 $$
 
-\begin{align}
+\begin{align*}
 x - 5 &= 8 \\
 x - 5 + 5 &= 8 + 5 \\
 x &= 13
-\end{align}
+\end{align*}
 $$
 
 **2. Subtraksjon på begge sider:**
 $$
 
-\begin{align}
+\begin{align*}
 x + 7 &= 12 \\
 x + 7 - 7 &= 12 - 7 \\
 x &= 5
-\end{align}
+\end{align*}
 $$
 
 **3. Multiplikasjon på begge sider:**
 $$
 
-\begin{align}
+\begin{align*}
 \frac{x}{3} &= 4 \\
 \frac{x}{3} \cdot 3 &= 4 \cdot 3 \\
 x &= 12
-\end{align}
+\end{align*}
 $$
 
 **4. Divisjon på begge sider:**
 $$
 
-\begin{align}
+\begin{align*}
 4x &= 20 \\
 \frac{4x}{4} &= \frac{20}{4} \\
 x &= 5
-\end{align}
+\end{align*}
 $$
 
 ## Typer av likninger
@@ -76,11 +76,11 @@ $$
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 x + 9 &= 15 \\
 x &= 15 - 9 \\
 x &= 6
-\end{align}
+\end{align*}
 $$
 
 ### Type 2: x - a = b
@@ -89,11 +89,11 @@ $$
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 x - 4 &= 11 \\
 x &= 11 + 4 \\
 x &= 15
-\end{align}
+\end{align*}
 $$
 
 ### Type 3: ax = b
@@ -102,11 +102,11 @@ $$
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 3x &= 21 \\
 x &= \frac{21}{3} \\
 x &= 7
-\end{align}
+\end{align*}
 $$
 
 ### Type 4: x/a = b
@@ -115,11 +115,11 @@ $$
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 \frac{x}{5} &= 8 \\
 x &= 8 \cdot 5 \\
 x &= 40
-\end{align}
+\end{align*}
 $$
 
 ## Sammensatte likninger
@@ -130,13 +130,13 @@ $$
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 2x + 7 &= 15 \\
 2x &= 15 - 7 \quad \text{(trekk fra 7)} \\
 2x &= 8 \\
 x &= \frac{8}{2} \quad \text{(del på 2)} \\
 x &= 4
-\end{align}
+\end{align*}
 $$
 
 ### Type 6: a(x + b) = c
@@ -145,25 +145,25 @@ $$
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 3(x + 4) &= 21 \\
 x + 4 &= \frac{21}{3} \quad \text{(del på 3)} \\
 x + 4 &= 7 \\
 x &= 7 - 4 \quad \text{(trekk fra 4)} \\
 x &= 3
-\end{align}
+\end{align*}
 $$
 
 **Alternativ metode:** Bruk [[Distributiv egenskap]]
 $$
 
-\begin{align}
+\begin{align*}
 3(x + 4) &= 21 \\
 3x + 12 &= 21 \quad \text{(gang inn i parentesen)} \\
 3x &= 21 - 12 \quad \text{(trekk fra 12)} \\
 3x &= 9 \\
 x &= 3
-\end{align}
+\end{align*}
 $$
 
 ## Likninger med variabel på begge sider
@@ -174,25 +174,25 @@ $$
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 3x + 5 &= x + 11 \\
 3x - x &= 11 - 5 \quad \text{(flytt x-ledd til venstre, tall til høyre)} \\
 2x &= 6 \\
 x &= 3
-\end{align}
+\end{align*}
 $$
 
 **Steg-for-steg:**
 $$
 
-\begin{align}
+\begin{align*}
 3x + 5 &= x + 11 \\
 3x - x + 5 &= x - x + 11 \quad \text{(trekk fra x på begge sider)} \\
 2x + 5 &= 11 \quad \text{(forenkle)} \\
 2x &= 11 - 5 \quad \text{(trekk fra 5 på begge sider)} \\
 2x &= 6 \\
 x &= 3 \quad \text{(del på 2)}
-\end{align}
+\end{align*}
 $$
 
 ## Kontroll av løsninger
@@ -215,11 +215,11 @@ Noen likninger har ingen løsning.
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 x + 5 &= x + 8 \\
 x - x &= 8 - 5 \\
 0 &= 3
-\end{align}
+\end{align*}
 $$
 
 Dette er umulig, så likningen har ingen løsning.
@@ -230,10 +230,10 @@ Noen likninger er alltid sanne.
 **Eksempel:**
 $$
 
-\begin{align}
+\begin{align*}
 2(x + 3) &= 2x + 6 \\
 2x + 6 &= 2x + 6
-\end{align}
+\end{align*}
 $$
 
 Dette er alltid sant, så alle verdier av x er løsninger.
@@ -291,41 +291,41 @@ Feil: x + 3 = 7 → x = 7 - 3  (uten å vise at vi trekker fra 3 på begge sider
 a) $x + 8 = 15$
 $$
 
-\begin{align}
+\begin{align*}
 x + 8 &= 15 \\
 x &= 15 - 8 \\
 x &= 7
-\end{align}
+\end{align*}
 $$
 
 b) $x - 6 = 9$
 $$
 
-\begin{align}
+\begin{align*}
 x - 6 &= 9 \\
 x &= 9 + 6 \\
 x &= 15
-\end{align}
+\end{align*}
 $$
 
 c) $4x = 28$
 $$
 
-\begin{align}
+\begin{align*}
 4x &= 28 \\
 x &= \frac{28}{4} \\
 x &= 7
-\end{align}
+\end{align*}
 $$
 
 d) $\frac{x}{3} = 7$
 $$
 
-\begin{align}
+\begin{align*}
 \frac{x}{3} &= 7 \\
 x &= 7 \cdot 3 \\
 x &= 21
-\end{align}
+\end{align*}
 $$
 
 ## Kobling til andre emner
