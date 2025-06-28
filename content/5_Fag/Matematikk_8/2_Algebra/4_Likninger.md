@@ -19,6 +19,7 @@ En likning er som en vektskål - det som gjøres på den ene siden, må gjøres 
 **Eksempel:**
 $$
 \begin{align}
+
 x + 3 &= 7 \\
 x + 3 - 3 &= 7 - 3 \quad \text{(trekker fra 3 på begge sider)} \\
 x &= 4
@@ -29,6 +30,7 @@ $$
 
 **1. Addisjon på begge sider:**
 $$\begin{align}
+
 x - 5 &= 8 \\
 x - 5 + 5 &= 8 + 5 \\
 x &= 13
@@ -36,6 +38,7 @@ x &= 13
 
 **2. Subtraksjon på begge sider:**
 $$\begin{align}
+
 x + 7 &= 12 \\
 x + 7 - 7 &= 12 - 7 \\
 x &= 5
@@ -43,6 +46,7 @@ x &= 5
 
 **3. Multiplikasjon på begge sider:**
 $$\begin{align}
+
 \frac{x}{3} &= 4 \\
 \frac{x}{3} \cdot 3 &= 4 \cdot 3 \\
 x &= 12
@@ -50,6 +54,7 @@ x &= 12
 
 **4. Divisjon på begge sider:**
 $$\begin{align}
+
 4x &= 20 \\
 \frac{4x}{4} &= \frac{20}{4} \\
 x &= 5
@@ -62,6 +67,7 @@ x &= 5
 
 **Eksempel:**
 $$\begin{align}
+
 x + 9 &= 15 \\
 x &= 15 - 9 \\
 x &= 6
@@ -72,6 +78,7 @@ x &= 6
 
 **Eksempel:**
 $$\begin{align}
+
 x - 4 &= 11 \\
 x &= 11 + 4 \\
 x &= 15
@@ -82,6 +89,7 @@ x &= 15
 
 **Eksempel:**
 $$\begin{align}
+
 3x &= 21 \\
 x &= \frac{21}{3} \\
 x &= 7
@@ -92,6 +100,7 @@ x &= 7
 
 **Eksempel:**
 $$\begin{align}
+
 \frac{x}{5} &= 8 \\
 x &= 8 \cdot 5 \\
 x &= 40
@@ -104,6 +113,7 @@ x &= 40
 
 **Eksempel:**
 $$\begin{align}
+
 2x + 7 &= 15 \\
 2x &= 15 - 7 \quad \text{(trekk fra 7)} \\
 2x &= 8 \\
@@ -116,6 +126,7 @@ x &= 4
 
 **Eksempel:**
 $$\begin{align}
+
 3(x + 4) &= 21 \\
 x + 4 &= \frac{21}{3} \quad \text{(del på 3)} \\
 x + 4 &= 7 \\
@@ -125,6 +136,7 @@ x &= 3
 
 **Alternativ metode:** Bruk [[Distributiv egenskap]]
 $$\begin{align}
+
 3(x + 4) &= 21 \\
 3x + 12 &= 21 \quad \text{(gang inn i parentesen)} \\
 3x &= 21 - 12 \quad \text{(trekk fra 12)} \\
@@ -139,6 +151,7 @@ x &= 3
 
 **Eksempel:**
 $$\begin{align}
+
 3x + 5 &= x + 11 \\
 3x - x &= 11 - 5 \quad \text{(flytt x-ledd til venstre, tall til høyre)} \\
 2x &= 6 \\
@@ -147,6 +160,7 @@ x &= 3
 
 **Steg-for-steg:**
 $$\begin{align}
+
 3x + 5 &= x + 11 \\
 3x - x + 5 &= x - x + 11 \quad \text{(trekk fra x på begge sider)} \\
 2x + 5 &= 11 \quad \text{(forenkle)} \\
@@ -175,6 +189,7 @@ Noen likninger har ingen løsning.
 
 **Eksempel:**
 $$\begin{align}
+
 x + 5 &= x + 8 \\
 x - x &= 8 - 5 \\
 0 &= 3
@@ -187,6 +202,7 @@ Noen likninger er alltid sanne.
 
 **Eksempel:**
 $$\begin{align}
+
 2(x + 3) &= 2x + 6 \\
 2x + 6 &= 2x + 6
 \end{align}$$
@@ -245,6 +261,7 @@ Feil: x + 3 = 7 → x = 7 - 3  (uten å vise at vi trekker fra 3 på begge sider
 
 a) $x + 8 = 15$
 $$\begin{align}
+
 x + 8 &= 15 \\
 x &= 15 - 8 \\
 x &= 7
@@ -252,6 +269,7 @@ x &= 7
 
 b) $x - 6 = 9$
 $$\begin{align}
+
 x - 6 &= 9 \\
 x &= 9 + 6 \\
 x &= 15
@@ -259,6 +277,7 @@ x &= 15
 
 c) $4x = 28$
 $$\begin{align}
+
 4x &= 28 \\
 x &= \frac{28}{4} \\
 x &= 7
@@ -266,6 +285,7 @@ x &= 7
 
 d) $\frac{x}{3} = 7$
 $$\begin{align}
+
 \frac{x}{3} &= 7 \\
 x &= 7 \cdot 3 \\
 x &= 21

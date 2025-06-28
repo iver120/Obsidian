@@ -71,6 +71,7 @@ Regnerekkefølgen (PEMDAS) gjelder også i algebra:
 
 **Eksempel 1:** Løs likningen $x + 7 = 12$
 $$\begin{align}
+
 x + 7 &= 12  \\
 x &= 12 - 7 \text{   (trekk fra 7 på begge sider)} \\
 x &= 5 \\
