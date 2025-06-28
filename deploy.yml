@@ -1,5 +1,5 @@
 cat > .github/workflows/deploy.yml << 'EOF'
-name: Deploy Quartz site to GitHub Pages
+name: Deploy-Quartz
 
 on:
   push:
