@@ -18,22 +18,22 @@ I algebra er også [[faktorisering]] prosessen med å skrive et algebraisk uttry
 Når alle ledd i et uttrykk har en felles faktor, kan vi "ta den ut".
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$\begin{align}
 6x + 9 &= 3 \cdot 2x + 3 \cdot 3 \\
 &= 3(2x + 3)
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$\begin{align}
 4a^2 + 8a &= 4a \cdot a + 4a \cdot 2 \\
 &= 4a(a + 2)
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 3:**
-$$\begin{aligned}
+$$\begin{align}
 12x^2y - 18xy^2 &= 6xy \cdot 2x - 6xy \cdot 3y \\
 &= 6xy(2x - 3y)
-\end{aligned}$$
+\end{align}$$
 
 ### Systematisk fremgangsmåte
 1. **Finn tallenes største felles faktor**
@@ -58,22 +58,22 @@ $$5x(3x^2 + 5x - 2) = 15x^3 + 25x^2 - 10x$$ ✓
 Når uttrykket har fire ledd, kan vi noen ganger gruppere dem parvis.
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$\begin{align}
 ax + ay + bx + by &= a(x + y) + b(x + y) \\
 &= (x + y)(a + b)
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$\begin{align}
 2x^2 + 6x + 3x + 9 &= 2x(x + 3) + 3(x + 3) \\
 &= (x + 3)(2x + 3)
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 3:**
-$$\begin{aligned}
+$$\begin{align}
 6ab - 9a + 4b - 6 &= 3a(2b - 3) + 2(2b - 3) \\
 &= (2b - 3)(3a + 2)
-\end{aligned}$$
+\end{align}$$
 
 ### Fremgangsmåte for gruppering
 1. **Grupper leddene parvis**
@@ -89,22 +89,22 @@ $$(a + b)^2 = a^2 + 2ab + b^2$$
 **Gjenkjenning:** Ser etter form $x^2 + 2xy + y^2$
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$\begin{align}
 x^2 + 6x + 9 &= x^2 + 2 \cdot x \cdot 3 + 3^2 \\
 &= (x + 3)^2
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$\begin{align}
 4a^2 + 12a + 9 &= (2a)^2 + 2 \cdot 2a \cdot 3 + 3^2 \\
 &= (2a + 3)^2
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 3:**
-$$\begin{aligned}
+$$\begin{align}
 25y^2 + 20y + 4 &= (5y)^2 + 2 \cdot 5y \cdot 2 + 2^2 \\
 &= (5y + 2)^2
-\end{aligned}$$
+\end{align}$$
 
 ### Kvadrat av differanse: (a - b)²
 $$(a - b)^2 = a^2 - 2ab + b^2$$
@@ -112,16 +112,16 @@ $$(a - b)^2 = a^2 - 2ab + b^2$$
 **Gjenkjenning:** Ser etter form $x^2 - 2xy + y^2$
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$\begin{align}
 x^2 - 8x + 16 &= x^2 - 2 \cdot x \cdot 4 + 4^2 \\
 &= (x - 4)^2
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$\begin{align}
 9b^2 - 24b + 16 &= (3b)^2 - 2 \cdot 3b \cdot 4 + 4^2 \\
 &= (3b - 4)^2
-\end{aligned}$$
+\end{align}$$
 
 ### Differanse av kvadrater: a² - b²
 $$a^2 - b^2 = (a + b)(a - b)$$
@@ -129,33 +129,33 @@ $$a^2 - b^2 = (a + b)(a - b)$$
 **Gjenkjenning:** To kvadratledd trukket fra hverandre
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$\begin{align}
 x^2 - 16 &= x^2 - 4^2 \\
 &= (x + 4)(x - 4)
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$\begin{align}
 25a^2 - 36b^2 &= (5a)^2 - (6b)^2 \\
 &= (5a + 6b)(5a - 6b)
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 3:**
-$$\begin{aligned}
+$$\begin{align}
 4x^2 - 9y^2 &= (2x)^2 - (3y)^2 \\
 &= (2x + 3y)(2x - 3y)
-\end{aligned}$$
+\end{align}$$
 
 ## Kombinerte faktoriseringer
 
 Noen uttrykk krever flere faktoriseringsmetoder.
 
 **Eksempel 1:** Ta ut fellesfaktor først
-$$\begin{aligned}
+$$\begin{align}
 2x^3 - 8x &= 2x(x^2 - 4) \\
 &= 2x(x^2 - 2^2) \\
 &= 2x(x + 2)(x - 2)
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:** Fellesfaktor og kvadratsetning
 $$\begin{aligned}
@@ -165,11 +165,11 @@ $$\begin{aligned}
 \end{aligned}$$
 
 **Eksempel 3:** Kompleks faktorisering
-$$\begin{aligned}
+$$\begin{align}
 x^4 - 16 &= (x^2)^2 - 4^2 \\
 &= (x^2 + 4)(x^2 - 4) \\
 &= (x^2 + 4)(x + 2)(x - 2)
-\end{aligned}$$
+\end{align}$$
 
 ## Oversikt over kvadratsetningene
 

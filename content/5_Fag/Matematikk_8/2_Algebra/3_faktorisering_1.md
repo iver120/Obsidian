@@ -14,26 +14,26 @@ $$12 = 2 \times 6 = 2 \times 2 \times 3 = 2^2 \times 3$$
 Enhver tall kan skrives som et produkt av [[Primtall]].
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$\begin{align}
 8 &= 2 \times 4 \\
 &= 2 \times 2 \times 2 \\
 &= 2^3
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$\begin{align}
 18 &= 2 \times 9 \\
 &= 2 \times 3 \times 3 \\
 &= 2 \times 3^2
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 3:**
-$$\begin{aligned}
+$$\begin{align}
 24 &= 2 \times 12 \\
 &= 2 \times 2 \times 6 \\
 &= 2 \times 2 \times 2 \times 3 \\
 &= 2^3 \times 3
-\end{aligned}$$
+\end{align}$$
 
 ## Faktorisering av variabler
 
@@ -61,25 +61,25 @@ a^2 &= a \times a
 Vi kan faktorisere både tallene og variablene.
 
 **Eksempel 1:**
-$$\begin{aligned}
+$$\begin{align}
 8x^3y &= 8 \times x^3 \times y \\
 &= 2 \times 2 \times 2 \times x \times x \times x \times y \\
 &= 2^3 \times x^3 \times y
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 2:**
-$$\begin{aligned}
+$$\begin{align}
 12a^2b &= 12 \times a^2 \times b \\
 &= 2 \times 2 \times 3 \times a \times a \times b \\
 &= 2^2 \times 3 \times a^2 \times b
-\end{aligned}$$
+\end{align}$$
 
 **Eksempel 3:**
-$$\begin{aligned}
+$$\begin{align}
 18x^2y^3 &= 18 \times x^2 \times y^3 \\
 &= 2 \times 3^2 \times x^2 \times y^3 \\
 &= 2 \times 3 \times 3 \times x \times x \times y \times y \times y
-\end{aligned}$$
+\end{align}$$
 
 ## Å finne største felles faktor (GFF)
 
@@ -87,10 +87,10 @@ $$\begin{aligned}
 For å finne GFF, faktoriser begge tallene og finn felles faktorer.
 
 **Eksempel:** GFF av 12 og 18
-$$\begin{aligned}
+$$\begin{align}
 12 &= 2^2 \times 3 \\
 18 &= 2 \times 3^2
-\end{aligned}$$
+\end{align}$$
 
 Felles faktorer: $2^1 \times 3^1 = 6$
 
@@ -99,7 +99,6 @@ Så GFF(12, 18) = 6
 ### Mellom algebraiske uttrykk
 **Eksempel:** GFF av $8x^3y$ og $12x^2y^2$
 
-+++
 8x³y = 2³ × x³ × y¹
 12x²y² = 2² × 3 × x² × y²
 
@@ -114,24 +113,24 @@ GFF = 4x²y
 ## Praktiske eksempler
 
 ### Eksempel 1: Enkel faktorisering
-$$\begin{aligned}
+$$\begin{align}
 6x &= 6 \times x \\
 &= 2 \times 3 \times x
-\end{aligned}$$
+\end{align}$$
 
 ### Eksempel 2: Med potenser
-$$\begin{aligned}
+$$\begin{align}
 15a^3 &= 15 \times a^3 \\
 &= 3 \times 5 \times a \times a \times a \\
 &= 3 \times 5 \times a^3
-\end{aligned}$$
+\end{align}$$
 
 ### Eksempel 3: Flere variabler
-$$\begin{aligned}
+$$\begin{align}
 20x^2y^3z &= 20 \times x^2 \times y^3 \times z \\
 &= 2^2 \times 5 \times x^2 \times y^3 \times z \\
 &= 4 \times 5 \times x \times x \times y \times y \times y \times z
-\end{aligned}$$
+\end{align}$$
 
 ## Hvorfor er dette viktig?
 
@@ -196,23 +195,23 @@ c) $15x^2y^3 = 3 \times 5 \times x^2 \times y^3 = 3 \times 5 \times x \times x \
 **Største felles faktor:**
 
 a) GFF(8, 12):
-+++
+
 8 = 2³
 12 = 2² × 3
 GFF = 2² = 4
-+++
+
 
 b) GFF($6x^2$, $9x^3$):
-+++
+
 6x² = 2 × 3 × x²
 9x³ = 3² × x³
 GFF = 3 × x² = 3x²
-+++
+
 
 ## Neste steg
 
 Når du behersker denne grunnleggende faktoriseringen, er du klar for:
-- [[Faktorisering av algebraiske uttrykk]] - ta ut felles faktorer fra uttrykk
+- [[3_Faktorisering_2]] - ta ut felles faktorer fra uttrykk
 - [[Distributiv egenskap]] - omvendt prosess
 - Brøkregning med algebraiske uttrykk
 

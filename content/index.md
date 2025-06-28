@@ -7,9 +7,11 @@ a-c \cdot b&= f + g
 $$
 # Test align
 $$
-\begin{align}
- a+b &=c \\
- cx-8 +b &= a
- \end{align}
+\begin{equation}
+	\begin{align}
+	 a+b &=c \\
+	 cx-8 +b &= a
+	 \end{align}
+\end{equation}
 $$ 
 
