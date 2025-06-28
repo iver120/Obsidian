@@ -92,9 +92,12 @@ $$
 
 **Eksempel 3:** Forenkle uttrykket $2x + 3x$
 
-$$\begin{aligned}
+$$
+
+\begin{align}
 2x + 3x = (2 + 3)x = 5x
-\end{aligned}$$
+\end{align}
+$$
 
 
 ## Praktiske anvendelser
