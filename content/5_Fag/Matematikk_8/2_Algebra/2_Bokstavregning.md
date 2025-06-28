@@ -1,4 +1,3 @@
-#publish
 # Bokstavregning
 
 Bokstavregning er regning med variabler (bokstaver). I stedet for konkrete tall, arbeider vi med generelle størrelser representert ved bokstaver som x, y, a, b osv.

@@ -1,4 +1,3 @@
-#publish
 # Introduksjon til algebra
 
 Algebra er en gren av matematikk som utvider det du allerede kan om regning ved å bruke bokstaver og symboler til å representere ukjente tall. I stedet for bare å regne med konkrete tall, lærer vi å arbeide med generelle mønstre og sammenhenger.

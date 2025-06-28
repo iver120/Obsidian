@@ -1,4 +1,3 @@
-#publish
 # Primtall - Kort notat
 
 ## Definisjon

@@ -1,4 +1,3 @@
-#publish
 # Likninger
 
 En likning er et matematisk utsagn som sier at to uttrykk er like. Likninger inneholder et likhetstegn ( = ) og minst én ukjent variabel som vi ønsker å finne verdien av.

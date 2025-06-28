@@ -1,4 +1,3 @@
-#publish
 # Regnestrategier for 8. trinn
 
 Regnestrategier er smarte måter å løse matematiske oppgaver på ved å bruke tallenes egenskaper og struktur. I stedet for å alltid bruke standardalgoritmer, kan vi ofte finne raskere og enklere løsninger ved å tenke strategisk.

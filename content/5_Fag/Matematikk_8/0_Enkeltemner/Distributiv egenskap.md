@@ -1,4 +1,3 @@
-#publish
 # Distributiv egenskap
 
 Distributiv egenskap er en grunnleggende regel i matematikk som lar oss "gange inn" i parenteser eller "gange ut" fra parenteser. Dette er en av de viktigste ferdighetene for å jobbe med algebraiske uttrykk og løse likninger.

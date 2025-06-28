@@ -1,4 +1,3 @@
-#publish
 # Faktorisering - Grunnleggende
 
 Faktorisering handler om å dele opp tall og uttrykk i sine grunnleggende byggeklosser. Dette er fundamentet for all videre algebra.

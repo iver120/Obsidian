@@ -1,4 +1,3 @@
-#publish
 # Faktorisering av algebraiske uttrykk
 
 I algebra er også [[faktorisering]] prosessen med å skrive et algebraisk uttrykk som et produkt av enklere faktorer. Det er det motsatte av å gange ut parenteser (distributiv egenskap), og er en av de viktigste ferdighetene i algebra.

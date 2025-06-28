@@ -1,4 +1,3 @@
-#publish
 # Faktorisering av heltall - Kort notat
 
 ## Hva er faktorisering?

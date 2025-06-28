@@ -1,4 +1,3 @@
-#publish
 # Regnerekkefølge for 8. trinn
 
 Regnerekkefølge er en av de viktigste ferdighetene i matematikk som sikrer at alle får samme svar når de regner ut matematiske uttrykk. Når vi arbeider med komplekse uttrykk som inneholder flere regneoperasjoner, må vi følge spesifikke regler for hvilken rekkefølge vi utfører operasjonene i.
