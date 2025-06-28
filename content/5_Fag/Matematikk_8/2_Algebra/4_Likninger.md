@@ -29,7 +29,8 @@ $$
 ### Fire grunnoperasjoner for å løse likninger
 
 **1. Addisjon på begge sider:**
-$$\begin{align}
+$$
+\begin{align}
 
 x - 5 &= 8 \\
 x - 5 + 5 &= 8 + 5 \\
