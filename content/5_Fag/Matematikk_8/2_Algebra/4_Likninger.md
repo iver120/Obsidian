@@ -35,7 +35,8 @@ $$
 x - 5 &= 8 \\
 x - 5 + 5 &= 8 + 5 \\
 x &= 13
-\end{align}$$
+\end{align}
+$$
 
 **2. Subtraksjon på begge sider:**
 $$\begin{align}
