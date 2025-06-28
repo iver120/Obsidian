@@ -14,11 +14,13 @@ $$12 = 2 \times 6 = 2 \times 2 \times 3 = 2^2 \times 3$$
 Enhver tall kan skrives som et produkt av [[Primtall]].
 
 **Eksempel 1:**
-$$\begin{align}
+$$
+\begin{align}
 8 &= 2 \times 4 \\
 &= 2 \times 2 \times 2 \\
 &= 2^3
-\end{align}$$
+\end{align}
+$$
 
 **Eksempel 2:**
 $$\begin{align}

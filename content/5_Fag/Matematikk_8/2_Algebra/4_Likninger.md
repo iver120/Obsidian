@@ -17,11 +17,13 @@ En likning består av to sider adskilt av et likhetstegn:
 En likning er som en vektskål - det som gjøres på den ene siden, må gjøres på den andre siden for å opprettholde balansen.
 
 **Eksempel:**
-$$\begin{align}
+$$
+\begin{align}
 x + 3 &= 7 \\
 x + 3 - 3 &= 7 - 3 \quad \text{(trekker fra 3 på begge sider)} \\
 x &= 4
-\end{align}$$
+\end{align}
+$$
 
 ### Fire grunnoperasjoner for å løse likninger
 
