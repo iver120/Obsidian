@@ -81,11 +81,14 @@ $$
 
 **Eksempel 2:** Løs likningen $3x = 15$  
 
-$$\begin{aligned}
-3x &= 15  
-x &= 15 ÷ 3 \text{  (del på 3 på begge sider)}
-x &= 5
-\end{aligned}$$
+$$
+
+\begin{align*}
+3x &= 15  \\
+x &= 15 ÷ 3 \text{  (del på 3 på begge sider)}\\
+x &= 5 
+\end{align*}
+$$
 
 **Eksempel 3:** Forenkle uttrykket $2x + 3x$
 
