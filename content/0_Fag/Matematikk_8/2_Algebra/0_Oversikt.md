@@ -1,5 +1,0 @@
-[[1_Introduksjon]]
-[[2_Bokstavregning]]
-[[3_faktorisering_1]]
-[[3_Faktorisering_2]]
-[[4_Likninger]]
