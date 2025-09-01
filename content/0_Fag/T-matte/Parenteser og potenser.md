@@ -1,7 +1,9 @@
 # Potensregning 
 $3^2 = 3 \cdot 3$ 
 $x^2 = x \cdot x$ 
-$$(x+1)^2=$$
+$$
+(x+1)^2=
+$$
 
 
 Test, vi tror at man skal opphøye alt inne i parentesen med 2 
