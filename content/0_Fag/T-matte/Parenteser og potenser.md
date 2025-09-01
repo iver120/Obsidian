@@ -6,7 +6,7 @@ $$
 $$
 
 
-Test, vi tror at man skal opphøye alt inne i parentesen med 2 
+Vi kan prøve oss frem med tall. kanskje man skal opphøye alt inne i parentesen med 2:
 $$
 (4+1)^2 ≠ 4^2+1^2 = 16 + 1
 $$
@@ -35,12 +35,16 @@ $$
 (x-\frac{1}{2})^2=(x-\frac{1}{2})(x-\frac{1}{2})
 $$
 Gange sammen alle tallene i begge parentesene
+
 $$
 =x^2-\frac{x}{2}-\frac{x}{2}+(-\frac{1}{2}\cdot(-\frac{1}{2}))
 $$
+
 $$
 =x^2-\frac{x}{2}-\frac{x}{2}+\frac{1}{4}
-$$$$
+$$
+
+$$
 =\underline{\underline{x^2-x+\frac{1}{4}}}
 $$
 
@@ -48,6 +52,7 @@ Oppgaver:
 a. $(2x+1)^2$
 b. $(a-5)^2$
 c. $(\frac{x}{2}+\frac{1}{4})^2$
+
 $$
 
 \begin{align*}
