@@ -1,6 +1,12 @@
 # Potensregning 
-$3^2 = 3 \cdot 3$ 
-$x^2 = x \cdot x$ 
+$$
+3^2 = 3 \cdot 3
+$$
+
+$$
+x^2 = x \cdot x$ 
+$$
+
 $$
 (x+1)^2=
 $$
@@ -49,10 +55,21 @@ $$
 $$
 
 Oppgaver: 
-a. $(2x+1)^2$
-b. $(a-5)^2$
-c. $(\frac{x}{2}+\frac{1}{4})^2$
+a. 
+$$
+(2x+1)^2
+$$
+b. 
+$$
+(a-5)^2
+$$
+c. 
+$$
+(\frac{x}{2}+\frac{1}{4})^2
+$$
 
+
+Utregning oppgave c:
 $$
 
 \begin{align*}
