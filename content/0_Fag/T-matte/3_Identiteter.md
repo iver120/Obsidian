@@ -37,3 +37,12 @@ $$
 Ja dette er en identitet fordi vi får identiske uttrykk på begge sider.
 
 d. 
+
+$$
+
+\begin{align}
+\frac{x^2-9}{x+3} &=x-3 \\ 
+\frac{(x+3)(x-3)}{x+3} &=x-3 \\ 
+x-3 &= x-3
+\end{align}
+$$

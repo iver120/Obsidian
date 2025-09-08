@@ -81,27 +81,3 @@ $$
 =&\underline{\underline{\frac{x^2}{4}+\frac{x}{4}+\frac{1}{16}}}
 \end{align*}
 $$
-Mer sammensatte oppgaver: 
-Sjekk om det er en identitet:
-$$
-(x+3)(x+3)=x^2+6x+9
-$$
-$$
-x^2+3x+3x+3 \cdot 3
-$$
-Ja dette er en identitet fordi vi får identiske uttrykk på begge sider.
-$$x+2=5+2x-3-x$$
-$$x+2=2x-x-3+5$$
-$$x+2=x+2$$
-Ja dette er en identitet fordi vi får identiske uttrykk på begge sider.
-
-$$
-
-\begin{align*}
-(x+\frac{1}{2})^2=x^2+\frac{x}{2}+\frac{x}{2}+(\frac{1}{2})^2 \\
-(x+\frac{1}{2})(x+\frac{1}{2})=x^2+\frac{x}{2}+\frac{x}{2}+(\frac{1}{2})^2 \\
-x^2+\frac{x}{2}+\frac{x}{2}+\frac{1}{2} \cdot \frac{1}{2}=x^2+\frac{x}{2}+\frac{x}{2}+(\frac{1}{2})^2 \\
-x^2+\frac{x}{2}+\frac{x}{2}+(\frac{1}{2})^2=x^2+\frac{x}{2}+\frac{x}{2}+(\frac{1}{2})^2
-\end{align*}
-$$
-Ja dette er en identitet fordi vi får identiske uttrykk på begge sider.
