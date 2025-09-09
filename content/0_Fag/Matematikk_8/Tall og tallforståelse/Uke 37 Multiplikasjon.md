@@ -46,5 +46,25 @@ $$
 $$
 Dette blir samme fremgangsmåte som arealmetoden som er gjennomgått i timen. 
 
-![[figuruke36.png]]
-
+### Arealmetoden (to siffer ganger to siffer):
+![[figuruke361.png|500]]
+$$
+\begin{align*}
+&800 +120 + 40 + 6 \\
+=&920 + 40 + 6 \\
+=&\underline{\underline{966}}
+\end{align*}
+$$
+Som vi kan se dukker alle tallene opp igjen her. Om du liker å se for deg regnestykkene geometrisk er dette en fin metode. 
+### Arealmetoden (tre siffer ganger to siffer)
+![[figuruke362.png|500]]
+$$
+\begin{align*}
+&6000+900+800+120+40+6 \\
+=&6900+800+120+40+6 \\
+=&7700+120+40+6 \\
+=&7820+40+6 \\
+=&\underline{\underline{7866}}
+\end{align*}
+$$
+Trikset for å regne ut de store tallene vi får inne i figuren er å gjøre regnestykkene $20 \cdot 300$ som $2 \cdot 3$ og deretter legge til nullene du ignorerte, da får vi $6000$. Resten handler bare om å gjøre nok mellomregninger slik at man ikke mister kontrollen. 
