@@ -35,6 +35,7 @@ $$
 $$Dette kan vi gjøre fordi $35 = 30+5$. Hvilken metode man velger er smak og behag. 
 
 ### To siffer og to siffer:
+
 $$
 
 \begin{align*}
@@ -45,6 +46,8 @@ $$
 &=\underline{\underline{966}}
 \end{align*}
 $$
+
 Dette blir samme fremgangsmåte som arealmetoden som er gjennomgått i timen. 
 
+![[figuruke36.png]]
 
