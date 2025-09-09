@@ -24,7 +24,9 @@ Her deler vi 8 opp i $2 \cdot 2 \cdot 2$ og dobler oss frem til svaret. Hjernen 
 
 ## Dele opp tallene 
 ### Ett siffer og to siffer:
+
 Her kan vi bruke samme regnestykke som over for å vise en annen variant for utregning:
+
 $$
 
 \begin{align*}
@@ -32,7 +34,8 @@ $$
 &=240+40 \\
 &=\underline{\underline{280}}
 \end{align*}
-$$Dette kan vi gjøre fordi $35 = 30+5$. Hvilken metode man velger er smak og behag. 
+$$
+Dette kan vi gjøre fordi $35 = 30+5$. Hvilken metode man velger er smak og behag. 
 
 ### To siffer og to siffer:
 
