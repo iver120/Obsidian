@@ -24,9 +24,7 @@ Her deler vi 8 opp i $2 \cdot 2 \cdot 2$ og dobler oss frem til svaret. Hjernen 
 
 ## Dele opp tallene 
 ### Ett siffer og to siffer:
-
 Her kan vi bruke samme regnestykke som over for å vise en annen variant for utregning:
-
 $$
 
 \begin{align*}
@@ -36,11 +34,8 @@ $$
 \end{align*}
 $$
 Dette kan vi gjøre fordi $35 = 30+5$. Hvilken metode man velger er smak og behag. 
-
 ### To siffer og to siffer:
-
 $$
-
 \begin{align*}
 42 \cdot 23 &= 40\cdot 20 + 40 \cdot 3 + 2 \cdot 20 + 2 \cdot 3 \\
 &=800 +120 + 40 + 6 \\
@@ -49,7 +44,6 @@ $$
 &=\underline{\underline{966}}
 \end{align*}
 $$
-
 Dette blir samme fremgangsmåte som arealmetoden som er gjennomgått i timen. 
 
 ![[figuruke36.png]]
