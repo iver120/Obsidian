@@ -47,5 +47,4 @@ $$
 $$
 Dette blir samme fremgangsmåte som arealmetoden som er gjennomgått i timen. 
 
-![[figuruke36.png]]
 
