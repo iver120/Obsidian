@@ -71,7 +71,7 @@ f(x)=\frac{15000}{x}
 $$
 Hvor mange må være med for at det skal koste mindre enn 500 per person? 
 
-Enten sette y = 500 på geogebra eller ligning: 
+Enten sette y = 500 og finn skjæring på geogebra eller ligning: 
 
 $$
 \begin{align*}
@@ -80,6 +80,9 @@ $$
 x &= \frac{150}{5} = 30
 \end{align*}
 $$
+![[Pasted image 20250911173944.png]]
+I punkt A kan vi se at x er 30 når y = 500
+
 # Andregradsfunksjoner
 $$f(x) = ax^2+bx+c$$
 Disse har ett ekstremalpunkt (topp eller bunn) opp til 2 nullpunkter (der funksjonen treffer x-aksen). Det du ser som c i funksjonen over er skjæring med y-aksen.
