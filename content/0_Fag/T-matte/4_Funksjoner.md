@@ -72,6 +72,34 @@ $$
 Hvor mange må være med for at det skal koste mindre enn 500 per person? 
 
 Enten sette y = 500 på geogebra eller ligning: 
+
 $$
-500 = \frac{15000}{x}
+\begin{align*}
+500 &= \frac{15000}{x} \\
+500x &= 15000 \\
+x &= \frac{150}{5} = 30
+\end{align*}
 $$
+# Andregradsfunksjoner
+$$f(x) = ax^2+bx+c$$
+Disse har ett ekstremalpunkt (topp eller bunn) opp til 2 nullpunkter (der funksjonen treffer x-aksen). Det du ser som c i funksjonen over er skjæring med y-aksen.
+
+$$f(x)=(x+2)(x-3)$$
+Har nullpunktene ved x = 3 og x = -2. 
+
+## Eksempel: 
+a) En bedrift tjener penger ut ifra hvor mange biler de selger uttrykket ved $T(x)=100000x$. Men taper penger på produksjonene av bilene gitt ved funksjonen $K(x)=-250x^2$. Kan du sette sammen de to funksjonene for å finner overskuddet til bedriften om de selger 50 biler? 
+
+$$O(x)=T(x)+K(x)=100000x-250x^2$$
+
+$$O(50)=100000(50)-250(50)^2=4375000$$
+Vi kan også finne dette ved å ta x=50 og finne skjæring i GeoGebra som vist i punkt A på skjermbildet. 
+
+
+b) Nå skal vi finne ut den største mengden penger de kan tjene på en dag. Hvordan går du frem? Bruker ekstremalpunkt som vist i punkt B er det størst mulige inntjeningen 10000000kr
+
+c) Hvor mange biler må de selge for å tape penger på salget? 
+Som vist i punkt D vil overskuddet være 0 om man selger 400 biler og vi kan se at grafen beveger seg under null etter det. 
+
+![[Pasted image 20250911172547.png]]
+

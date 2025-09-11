@@ -46,3 +46,4 @@ $$
 x-3 &= x-3
 \end{align}
 $$
+Ja dette er en identitet fordi vi får identiske uttrykk på begge sider.

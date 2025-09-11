@@ -10,7 +10,7 @@ $$
 $$
 (x+1)^2=
 $$
-
+# Parentes opphøyd i andre
 
 Vi kan prøve oss frem med tall. kanskje man skal opphøye alt inne i parentesen med 2:
 $$
@@ -37,6 +37,7 @@ $$
 (x+1)^2=(x+1)(x+1)=x^2+x+x+1=\underline{\underline{x^2+2x+1}}
 $$
 
+# Parentes som inneholder brøker 
 $$
 (x-\frac{1}{2})^2=(x-\frac{1}{2})(x-\frac{1}{2})
 $$
@@ -53,7 +54,7 @@ $$
 $$
 =\underline{\underline{x^2-x+\frac{1}{4}}}
 $$
-
+# Øvingsoppgaver
 Oppgaver: 
 a. 
 $$
