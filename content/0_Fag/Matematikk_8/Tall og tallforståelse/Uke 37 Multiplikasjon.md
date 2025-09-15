@@ -1,4 +1,15 @@
 # Strategier: 
+## Gange med 10
+Når vi ganger med 10 flytter vi enten desimaltegnet til høyre eller legger på en null. 
+### Eksempel 1: 
+$$
+23 \cdot 10 = 230
+$$
+### Eksempel 2: 
+$$
+34.56 \cdot 10 = 345.6
+$$
+
 ## veien om 10 (legge på en null og dele på 2)
 $$
 

@@ -1,5 +1,4 @@
-Standard-måten å dele på står beskrevet i boka, her vil vi ha fokus på andre strategier. 
-
+Standard-måten å dele på står beskrevet i boka, her vil vi ha fokus på andre strategier. Men det ligger 4 eksempel på standard divisjon på bunnen av siden. 
 # Veien om 10
 Om vi skal dele noe med 5 kan vi først dele på 10 og deretter gnage med 2. Når vi deler noe på 10 fjerner vi bare en null eller flytter desimaltegnet en plass mot venstre. 
 ## Eksempel 1: 
@@ -61,3 +60,20 @@ $$
 &=\underline{\underline{31}}
 \end{align*}
 $$
+# Oppstilling 
+## Eksempel 1: 
+![[Pasted image 20250915130724.png|500]]
+
+## Eksempel 2: 
+![[Pasted image 20250915130806.png|500]]
+
+## Eksempel 3: 
+![[Pasted image 20250915130850.png|500]]
+
+
+## Eksempel 4: 
+![[Pasted image 20250915130942.png|500]]
+## Eksempel 5: 
+![[Pasted image 20250915131237.png|500]]
+
+# Mengdetrening dele med 10, 100, 1000
