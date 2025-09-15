@@ -1,5 +1,43 @@
 Standard-måten å dele på står beskrevet i boka, her vil vi ha fokus på andre strategier. Men det ligger 4 eksempel på standard divisjon på bunnen av siden. 
-# Veien om 10
+# Å dele med 10, 100 og 1000
+## Dele med 10
+Når vi deler med 10 kan vi flytte desimaltegnet mot venstre. Om ikke det er noe desimaltegn kan vi bare putte på et på slutten av tallet. 
+### Oppgaver med fasit: 
+a)
+$$
+230 : 10 = 23
+$$
+
+b) 
+$$
+4800 : 10 = 480
+$$
+
+c)
+$$
+34 : 10 = 3.4
+$$
+## Dele med 100 og mer
+Når vi delere med 100, 1000 osv flytter vi desimaltegnet like mange ganger som det er nuller i tallet
+### Oppgaver med fasit:
+
+a)
+$$
+4800 : 100 = 48
+$$
+b)
+$$
+4800 : 100=  4.8
+$$
+c)
+$$
+589 : 100 = 5.98
+$$
+d)
+$$
+55800 : 1000 = 55.8
+$$
+# Veien om 10 når vi skal dele med 5
 Om vi skal dele noe med 5 kan vi først dele på 10 og deretter gnage med 2. Når vi deler noe på 10 fjerner vi bare en null eller flytter desimaltegnet en plass mot venstre. 
 ## Eksempel 1: 
 $$
@@ -60,7 +98,8 @@ $$
 &=\underline{\underline{31}}
 \end{align*}
 $$
-# Oppstilling 
+# Oppstilling med utregning
+Her er det noen oppgaver med oppstilling. Det er fin øving og prøve seg selv for å se om man får samme resultat.  
 ## Eksempel 1: 
 ![[Pasted image 20250915130724.png|500]]
 
@@ -76,4 +115,3 @@ $$
 ## Eksempel 5: 
 ![[Pasted image 20250915131237.png|500]]
 
-# Mengdetrening dele med 10, 100, 1000
