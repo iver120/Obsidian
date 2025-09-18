@@ -1,7 +1,7 @@
 Standard-måten å dele på står beskrevet i boka, her vil vi ha fokus på andre strategier. Men det ligger 4 eksempel på standard divisjon på bunnen av siden. 
 # Å dele med 10, 100 og 1000
 ## Dele med 10
-Når vi deler med 10 kan vi flytte desimaltegnet mot venstre. Om ikke det er noe desimaltegn kan vi bare putte på et på slutten av tallet. 
+Når vi deler med 10 kan vi flytte desimaltegnet mot venstre. Om ikke det er noe desimaltegn kan vi bare putte på et på slutten av tallet. Dette blir på en måte motsatt av ganging med 10 som vi så på i [[Uke 37 Multiplikasjon]].
 ### Oppgaver med fasit: 
 a)
 $$
