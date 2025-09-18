@@ -100,18 +100,22 @@ $$
 $$
 # Oppstilling med utregning
 Her er det noen oppgaver med oppstilling. Det er fin øving og prøve seg selv for å se om man får samme resultat.  
-## Eksempel 1: 
+## Eksempel 1:
+![[Pasted image 20250917131740.png|500]]
+## Eksempel 2: 
+![[Pasted image 20250917131815.png|500]]
+## Eksempel 3: 
 ![[Pasted image 20250915130724.png|500]]
 
-## Eksempel 2: 
+## Eksempel 4: 
 ![[Pasted image 20250915130806.png|500]]
 
-## Eksempel 3: 
+## Eksempel 5: 
 ![[Pasted image 20250915130850.png|500]]
 
 
-## Eksempel 4: 
+## Eksempel 6: 
 ![[Pasted image 20250915130942.png|500]]
-## Eksempel 5: 
+## Eksempel 7: 
 ![[Pasted image 20250915131237.png|500]]
 
