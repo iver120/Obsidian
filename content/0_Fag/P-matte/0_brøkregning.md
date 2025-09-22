@@ -58,3 +58,13 @@ $$
 =& \frac{23}{24} 
 \end{align*}
 $$
+
+# Minitest
+$$
+\begin{align*}
+& \frac{2}{5}-\frac{-3}{30} \\
+=& \frac{12-(-3)}{30} \\
+=& \frac{15}{30} \\
+=& \frac{1}{2}
+\end{align*}
+$$

@@ -1,8 +1,16 @@
 # Prosentpoeng 
 Vi bruker ordet prosentpoeng for å kunne si noe om en absolutt endring i prosent. 
 
-## Eksempel: 
+## Eksempel 1: 
 Om noe endrer seg fra 1% til 2% (regnestykket her er 2%-1% = 1%) så har det økt med 100%, men 1 prosentpoeng. 
+
+## Eksempel 2: 
+Stemmene på arbeiderpartiet har gått fra 24% i 2024 til 31% i 2025. Hva var endingen i prosent og prosentpoeng? 
+prosentpoeng = $31\%-24\% =7\%$ 
+Prosent endring: 
+$$
+\frac{prosent_{2025}-prosent_{2025}}{prosent_{2024}} = \frac{31-24}{24}=29.2\%
+$$
 
 ## Oppgaver: 
 Du skal finne hvor mange prosentpoeng noe har endret seg og hvor mange prosent. 
