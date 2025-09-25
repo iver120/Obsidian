@@ -35,10 +35,23 @@ $$
 \end{align*}
 $$
 # Eksempel med PEMDAS
+## Eksempel 1:
 $$
 \begin{align*}
-&3 \cdot 4 + 3- 2 \cdot 2 \\
-=&12+3-4 \\
-=&\underline{\underline{11}}
+&3 \cdot (4 + 3^3)- 2 \cdot 2 \\
+=&3 \cdot (4+27)-2 \cdot 2 \\
+=& 3 \cdot 31-4 \\
+=& 93-4 \\
+=&\underline{\underline{89}}
+\end{align*}
+$$
+## Eksempel 2: 
+$$
+\begin{align*}
+& 7+5^2-(-2)+(-1)-(-1 \cdot 6)^2\\
+=& 7+5^2-(-2)+(-1)-(-6)^2\\
+=& 7+25-(-2)+(-1)-36\\
+=& 7+25+2-1-36 \\
+=&\underline{\underline{-3}}
 \end{align*}
 $$
