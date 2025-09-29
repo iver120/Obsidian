@@ -53,34 +53,34 @@ Ved addisjon og subtraksjon av desimaltall:
 
 ### Oppgave 1: Plassverdi og lesing
 Skriv disse desimaltallene med ord og forklar hva hvert siffer representerer:
-a) 5,34
-b) 12,07
-c) 0,816
+- a) 5,34
+- b) 12,07
+- c) 0,816
 
 ### Oppgave 2: Sammenligning
 Sett inn riktig tegn (<, > eller =) mellom tallene:
-a) 4,8 __ 4,80
-b) 7,23 __ 7,32
-c) 9,5 __ 9,05
-d) 12,4 __ 12,40
+- a) 4,8 __ 4,80
+- b) 7,23 __ 7,32
+- c) 9,5 __ 9,05
+- d) 12,4 __ 12,40
 
 ### Oppgave 3: Addisjon og subtraksjon
 Regn ut:
-a) 15,7 + 8,45 = 
-b) 23,6 - 9,8 = 
-c) 7,25 + 12,8 + 3,95 = 
-d) 20 - 7,63 = 
+- a) 15,7 + 8,45 = 
+- b) 23,6 - 9,8 = 
+- c) 7,25 + 12,8 + 3,95 = 
+- d) 20 - 7,63 = 
 
 ### Oppgave 4: Avrunding
 Avrund til nærmeste hele tall og til én desimal:
-a) 8,47 ≈ ___ (hele tall) og ___ (én desimal)
-b) 15,84 ≈ ___ (hele tall) og ___ (én desimal)
-c) 3,95 ≈ ___ (hele tall) og ___ (én desimal)
-d) 11,12 ≈ ___ (hele tall) og ___ (én desimal)
+- a) 8,47 ≈ ___ (hele tall) og ___ (én desimal)
+- b) 15,84 ≈ ___ (hele tall) og ___ (én desimal)
+- c) 3,95 ≈ ___ (hele tall) og ___ (én desimal)
+- d) 11,12 ≈ ___ (hele tall) og ___ (én desimal)
 
 ### Oppgave 5: Omgjøring mellom brøk og desimaltall
-a) Gjør om til desimaltall: 3/4, 2/5, 7/8
-b) Gjør om til brøk (forkortet så mye som mulig): 0,6, 0,25, 0,125
+- a) Gjør om til desimaltall: 3/4, 2/5, 7/8
+- b) Gjør om til brøk (forkortet så mye som mulig): 0,6, 0,25, 0,125
 
 ---
 
