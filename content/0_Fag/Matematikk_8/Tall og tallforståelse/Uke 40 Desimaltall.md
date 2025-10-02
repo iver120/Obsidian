@@ -104,23 +104,23 @@ c) 0,816 = "null komma åtte hundre seksten" eller "åtte hundre seksten tusende
    - 6 på tusendelplassen = 0,006
 
 ### Oppgave 2:
-a) 4,8 = 4,80 
-b) 7,23 < 7,32
-c) 9,5 > 9,05
-d) 12,4 = 12,40
+- a) 4,8 = 4,80 
+- b) 7,23 < 7,32
+- c) 9,5 > 9,05
+- d) 12,4 = 12,40
 
 ### Oppgave 3:
-a) 15,7 + 8,45 = 24,15
-b) 23,6 - 9,8 = 13,8
-c) 7,25 + 12,8 + 3,95 = 24,00
-d) 20 - 7,63 = 12,37
+- a) 15,7 + 8,45 = 24,15
+- b) 23,6 - 9,8 = 13,8
+- c) 7,25 + 12,8 + 3,95 = 24,00
+- d) 20 - 7,63 = 12,37
 
 ### Oppgave 4:
-a) 8,47 ≈ 8 (hele tall) og 8,5 (én desimal)
-b) 15,84 ≈ 16 (hele tall) og 15,8 (én desimal)
-c) 3,95 ≈ 4 (hele tall) og 4,0 (én desimal)
-d) 11,12 ≈ 11 (hele tall) og 11,1 (én desimal)
+- a) 8,47 ≈ 8 (hele tall) og 8,5 (én desimal)
+- b) 15,84 ≈ 16 (hele tall) og 15,8 (én desimal)
+- c) 3,95 ≈ 4 (hele tall) og 4,0 (én desimal)
+- d) 11,12 ≈ 11 (hele tall) og 11,1 (én desimal)
 
 ### Oppgave 5:
-a) 3/4 = 0,75, 2/5 = 0,4, 7/8 = 0,875
-b) 0,6 = 6/10 = 3/5, 0,25 = 25/100 = 1/4, 0,125 = 125/1000 = 1/8
+- a) 3/4 = 0,75, 2/5 = 0,4, 7/8 = 0,875
+- b) 0,6 = 6/10 = 3/5, 0,25 = 25/100 = 1/4, 0,125 = 125/1000 = 1/8
