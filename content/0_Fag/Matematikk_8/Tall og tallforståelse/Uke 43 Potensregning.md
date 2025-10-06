@@ -17,7 +17,7 @@ $$
 
 ## Eksempel 2: 
 $$
-2^3 = \2 \cdot 2 \cdot 2
+2^3 = 2 \cdot 2 \cdot 2
 $$  
 ## Eksempel 3: 
 $$
@@ -63,6 +63,9 @@ Her trenger vi ikke tenke så mye på fremgangsmåtene fra [[Uke 38 Divisjon]]. 
 $$
 5^5 : 5^2 = \frac{5^5}{5^2} = \frac{5 \cdot 5 \cdot5 \cdot5 \cdot5}{5 \cdot5} = 5 \cdot5 \cdot5 = 5^3
 $$
-
+på en mye enklere måte kan vi ta denne snarveien: $$5^5:5^2=5^{5-2}=5^3$$
+Husk at dette bare fungerer da divisor og dividend har samme grunntall. 
 ## Eksempel 2: 
-
+$$
+3^7:3^2=3^{7-2}=3^5
+$$

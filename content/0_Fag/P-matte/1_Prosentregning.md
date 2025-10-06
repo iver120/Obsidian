@@ -62,3 +62,27 @@ b) Om bilen fortsetter å øke i pris på samme måte, hva vil bilen koste etter
 $$
 100000kr \cdot 1.2^{10}=619173kr
 $$
+
+c) Sykefraværet i en bedrift gikk fra 3.6% på mandag til 4.8% på onsdag og økte deretter med 50% fra onsdag til fredag. Hvor mange prosent økte sykefraværet fra mandag til fredag? 
+
+Mellomregning: $4.8\% -3.6\% = 1.2\%$
+
+$$
+4.8\% \cdot (1+0.5)=7.2\%
+$$
+$$
+\frac{7.2\%-3.6\%}{3.6\%}=100\%
+$$
+d) Finn 7 prosent av 50
+$$
+50 \cdot0.07 = 0.5 \cdot 7 = 3.5
+$$
+
+e) 20% av 800
+
+tar ti prosent to ganger og får 80 + 80 = 160
+
+f) 37% av 25
+
+25% av 37 samme som 37:4 = 37:2:2 = 18.5:2 = 9.25
+
