@@ -106,7 +106,7 @@ Som vist i punkt D vil overskuddet være 0 om man selger 400 biler og vi kan se 
 
 ![[Pasted image 20250911172547.png]]
 
-# Øvingsoppgaver: 
+# Øvingsoppgaver lineære funksjoner: 
 a) Finn f(3) når $f(x) = 3x+5$ 
 $$
 f(3)=3(3)+5=9+5=14
@@ -151,18 +151,18 @@ $$
 
 f) Funksjonene f(x) = 3x+5 og g(x) = 2x-1 treffer hverandre i et bestemt punkt. Finn punktet ved regning. 
 
-1. sett funksjonene lik hverandre, løs for x. 
+1- sett funksjonene lik hverandre, løs for x. 
 $$
 f(x) = g(x) \implies 3x+5 = 2x-1
 $$
 $$
 3x-2x=-1-5 \implies x = -6
 $$
-2. Sett verdien du finner for x inn i en av funksjonene for å finne y-verdien til koordinatet. 
+2- Sett verdien du finner for x inn i en av funksjonene for å finne y-verdien til koordinatet. 
 $$
 g(-6)=2(-6)-1=-13
 $$
-3. Sett informasjonen sammen til et koordinat (x, y)
+3- Sett informasjonen sammen til et koordinat (x, y)
 $$
 A=(-6, -13)
 $$
