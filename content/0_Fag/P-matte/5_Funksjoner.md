@@ -106,3 +106,105 @@ Som vist i punkt D vil overskuddet være 0 om man selger 400 biler og vi kan se 
 
 ![[Pasted image 20250911172547.png]]
 
+# Øvingsoppgaver: 
+a) Finn f(3) når $f(x) = 3x+5$ 
+$$
+f(3)=3(3)+5=9+5=14
+$$
+
+b) Finn g(2) når $g(x) = \frac{2}{1+x}$ 
+$$
+g(2)=\frac{2}{1+x}=\frac{2}{3}
+$$
+c) h(x) = 5x+7, hva er x når h(x) = 57
+$$
+5x+7=57
+$$
+
+$$
+5x=50 \implies x = 10
+$$
+d) f(x) treffer y-aksen på 5 og x-aksen på -20. Hva er funksjonsuttrykket til f(x)? (lineær funksjon)
+
+$$
+f(x)=ax+5
+$$
+Bruke formel for å finne a? 
+
+$$
+a = \frac{\text{endring i y}}{\text{endring i x}}=\frac{5}{20}
+$$
+e) en funksjon går gjennom punktet (5, 10) og har stigningstall 2. Hva er funksjonsuttrykket?
+
+$$
+f(x) = 2x
+$$
+
+$$
+f(5)=2(5)
+$$
+
+e) en funksjon går gjennom punktet (5, 15) og har stigningstall 2. Hva er funksjonsuttrykket?
+$$
+f(x) = 2x+5
+$$
+
+f) Funksjonene f(x) = 3x+5 og g(x) = 2x-1 treffer hverandre i et bestemt punkt. Finn punktet ved regning. 
+
+1. sett funksjonene lik hverandre, løs for x. 
+$$
+f(x) = g(x) \implies 3x+5 = 2x-1
+$$
+$$
+3x-2x=-1-5 \implies x = -6
+$$
+2. Sett verdien du finner for x inn i en av funksjonene for å finne y-verdien til koordinatet. 
+$$
+g(-6)=2(-6)-1=-13
+$$
+3. Sett informasjonen sammen til et koordinat (x, y)
+$$
+A=(-6, -13)
+$$
+Man kan også ta skjæringspunkt med GeoGebra: 
+![[Pasted image 20251013171222.png]]
+
+g) Hvor treffer funksjonene f(x) = -2x+1 og g(x)= 2x-1 hverandre.
+
+$$
+f(x) = g(x) \implies x = 0.5
+$$
+$$
+f(0.5)=-2(0.5)+1 = 0
+$$
+$$
+A = (0.5,0)
+$$
+
+h) Hvor treffer linjen 2x+1 linjen 2x+2
+0 = 1, paralelle linjer 
+
+i) Funksjonen h(x) går gjennom punktet A = (10, 10) og har konstantledd 5. Finn funksjonsuttrykket. 
+
+Setter inn i standar skrivemåte
+$$
+h(x) = ax+5
+$$
+Setter h(x) = 10 og x = 10
+$$
+10 = a(10)+5
+$$
+Vi kan nå løse for a
+$$
+10 = 10a+5
+$$
+
+$$
+5 = 10a
+$$
+$$
+0.5 = a
+$$
+
+Vi kan sette alt sammen til en funksjon nå: dermed er $h(x)=0.5x+5$ 
+
