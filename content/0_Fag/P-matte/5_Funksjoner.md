@@ -208,3 +208,49 @@ $$
 
 Vi kan sette alt sammen til en funksjon nå: dermed er $h(x)=0.5x+5$ 
 
+j) En butikk selger saft til 15kr per glass. For å lage saften blander de saft i forholdet 1:4. Konsentrert saft koster 50kr per liter. Ett glass inneholder 2dl ferdig blandet saft. Lag en funksjon for å vise hvor mye butikken tjener per glass solgt. Anta att vann er gratis. 
+
+- OM man selger 5 glass bruker man 
+	- Bruke veien om 1dl
+		- 0.2 : 0.8
+		- 0.4 : 1.6
+	- Hvor mye koster saften som brukes? 
+		- 1L er 10dl og koster 50kr
+		- Vi deler på 10 finner at 1dl koster 5kr
+		- $5 \cdot 0.4 = 2kr$ 
+Vi kan nå lage funksjonen: 
+$$
+T(s) = 15s-2s
+$$
+$$
+T(s) = 13s
+$$
+Etter salget er blitt gjort finner butikken ut at de må skatte 22% av det de tjener. Hva blir den nye funksjonen for fortjeneste etter skatt? 
+
+Etter skatt får vi funksjonen: 
+$$
+T(s) = 13s - 13s\cdot 0.22
+$$
+altså: 
+
+$$
+T(s) = 10.14s
+$$
+
+
+k) Beate setter 10 000kr i fond. Prognosene sier at fondet skal øke i beste fall med 10% i året og i verste fall med 4% i året. Lag to funksjoner som viser utviklingen av pengene til Beate over flere år. Utviklingen skal vises fra 1 til 20 år. 
+
+Løsning:
+$$
+f(x)=10000\cdot1.1^x
+$$
+$$
+f(x)=10000\cdot1.04^x
+$$
+Bruk geogebra til å finne ut hvor mye mer Beate sitter igjen med gitt det beste utfallet:
+
+Løsning:
+
+![[Pasted image 20251016173451.png]]
+
+Linjestykket h viser differansen mellom f(x) og g(x) etter 20 år (altså ved x = 20). Vi kan også ta f(20)-g(20) for å finne denne verdien. 
