@@ -253,4 +253,42 @@ Løsning:
 
 ![[Pasted image 20251016173451.png]]
 
-Linjestykket h viser differansen mellom f(x) og g(x) etter 20 år (altså ved x = 20). Vi kan også ta f(20)-g(20) for å finne denne verdien. 
+Linjestykket viser differansen mellom f(x) og g(x) etter 20 år (altså ved x = 20). Vi kan også ta f(20)-g(20) for å finne denne verdien. 
+
+# Tekstoppgaver
+a) En bil kjører i 50km/t. Lag en funksjon for hvor mange kilometer bilen forflytter seg per time. 
+$$
+f(x) = 50x
+$$
+
+b) Lag en funksjon som viser hvor mye bilen forflytter seg per minutt også. 
+$$
+f(x)=\frac{5}{6}x
+$$
+
+c) Hvor langt har bilen kommet etter 450 minutter? Finn også ut hvor mange timer og minutter 450 minutter er. 
+$$
+f(450) =\frac{5km}{6} \cdot 450 = 375km
+$$
+
+$$
+\frac{450}{60} = 7.5t
+$$
+Dermed er det 7 timer og 30minutter 
+
+d) Hvor langt har bilen kommet etter 454 minutter? Finn også ut hvor mange timer og minutter 454 minutter er. 
+
+378.3km 
+
+454-60*7 = 34
+
+dermed 7 timer og 34minutter
+
+e) Vis i GeoGebra at man kommer like langt om man kjører 120 minutter som når man kjører 2 timer. ved å bruke begge funksjonene. Bruk f(x) for timer og g(x) for minutter
+![[Pasted image 20251020165058.png]]
+
+f) En ball faller med en konstant hastighet på 8m/s. Ballen blir sluppet fra 20 meters høyde. Hvor lang tid tar det før ballen treffer bakken? Vis i GeoGebra. 
+
+g) Hvor mange meter over bakken måtte du sluppet ballen fra for at den skulle vært i luften i 3 sekunder? 
+
+a-8(3)=0 --> a = 8(3)=24
