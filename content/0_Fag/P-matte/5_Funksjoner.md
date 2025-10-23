@@ -134,7 +134,7 @@ Bruke formel for å finne a?
 $$
 a = \frac{\text{endring i y}}{\text{endring i x}}=\frac{5}{20}
 $$
-e) en funksjon går gjennom punktet (5, 10) og har stigningstall 2. Hva er funksjonsuttrykket?
+e) en funksjon går gjennom punktet $(5, 10)$ og har stigningstall 2. Hva er funksjonsuttrykket?
 
 $$
 f(x) = 2x
@@ -144,12 +144,12 @@ $$
 f(5)=2(5)
 $$
 
-e) en funksjon går gjennom punktet (5, 15) og har stigningstall 2. Hva er funksjonsuttrykket?
+e) en funksjon går gjennom punktet $(5, 15)$ og har stigningstall 2. Hva er funksjonsuttrykket?
 $$
 f(x) = 2x+5
 $$
 
-f) Funksjonene f(x) = 3x+5 og g(x) = 2x-1 treffer hverandre i et bestemt punkt. Finn punktet ved regning. 
+f) Funksjonene $f(x) = 3x+5$ og $g(x) = 2x-1$ treffer hverandre i et bestemt punkt. Finn punktet ved regning. 
 
 1- sett funksjonene lik hverandre, løs for x. 
 $$
@@ -162,7 +162,7 @@ $$
 $$
 g(-6)=2(-6)-1=-13
 $$
-3- Sett informasjonen sammen til et koordinat (x, y)
+3- Sett informasjonen sammen til et koordinat $(x, y)$
 $$
 A=(-6, -13)
 $$
@@ -238,6 +238,8 @@ T(s) = 10.14s
 $$
 
 
+
+# Øvingsoppgaver eksponentialfunksjoner 
 k) Beate setter 10 000kr i fond. Prognosene sier at fondet skal øke i beste fall med 10% i året og i verste fall med 4% i året. Lag to funksjoner som viser utviklingen av pengene til Beate over flere år. Utviklingen skal vises fra 1 til 20 år. 
 
 Løsning:
@@ -291,4 +293,101 @@ f) En ball faller med en konstant hastighet på 8m/s. Ballen blir sluppet fra 20
 
 g) Hvor mange meter over bakken måtte du sluppet ballen fra for at den skulle vært i luften i 3 sekunder? 
 
-a-8(3)=0 --> a = 8(3)=24
+$$
+a-8(3)=0 \implies a = 8(3)=24
+$$
+
+# Skjæringspunkt med x og y akse
+## Finne skjæringspunkt med x akse. 
+For å finne hvor en funksjon treffer x aksen må man sette y = 0 og løse for x. 
+### Eksempel 1: 
+Finn skjæringen med x-aksen for funksjonen y = 3x+2
+
+$$
+0 = 3x+2 
+$$
+
+$$
+3x = -2
+$$
+
+$$
+x = -\frac{2}{3}
+$$
+
+Dermed er koordinatet for skjæringspunktet $(-\frac{2}{3}, 0)$
+
+### Eksempel 2:
+Finn nullpunktet til f(x) = 4x-8
+
+$$
+0 = 4x-8
+$$
+$$
+8 = 4x
+$$
+$$
+x = 2
+$$
+$(2, 0)$
+
+
+## Finne skjæringspunkt med y akse. 
+Hva er x-koordinatet når en funksjon treffer y-aksen? 
+
+Dermed må vi evaluere funksjonen ved f(0), eller når x = 0
+
+### Eksempel 1: 
+Finn skjæringspunkt på y-aksen for funksjonen y = 3x+2, vi setter x = 0 og får: 
+
+$$
+y = 3(0)+2 = 2
+$$
+Dermed er koordinatet for punktet $(0, 2)$ 
+
+### Eksempel 2: 
+fint skjæringspunkt på y-aksen for f(x) = 4x+8
+
+$$
+(0,8)
+$$
+## Øve: 
+Finn koordinatene hvor funksjonene treffer x-aksen, y-aksen og hverandre. 
+
+f(x) = x+3
+g(x) = -2x -3
+
+f(x) treffer y-aksen i (0, 3)
+g(x) treffer y-aksen i (0, -3)
+
+$$
+f(x) = 0 = x+3 \implies x = -3
+$$
+
+$$
+(-3,0)
+$$
+
+$$
+g(x) = 0 = -2x-3 \implies 2x = -3 \implies x = -\frac{3}{2}
+$$
+
+$$
+(-\frac{2}{3}, 0)
+$$
+Setter f(x) = g(x)
+$$
+x+3 = -2x-3
+$$
+$$
+3x=-6
+$$
+$$
+x = -2
+$$
+Evaluerer en av funksjonene ved x = -2 for å finne y-koordinatet
+$$
+f(-2)=-2+3 = 1
+$$
+
+Dermed er koordinatet: $(-2,1)$ 
