@@ -7,7 +7,7 @@ Når vi regner regner vi normalt fra venstre, men utover det finnes det noen spe
 5. (A)disjon
 6. (S)ubtraksjon
 
-Dette er rekkefølgen vi alltid bruker. Den gjelder uansett situasjon og gjør så man alltid vil få samme svar om man regner ut det samme regnestykket. 
+Dette er rekkefølgen vi alltid bruker. Den gjelder uansett situasjon og gjør så man alltid vil få samme svar om man regner ut det samme regnestykket. Husk at M og D er likeverdige og det som dukker opp først fra venstre i regnestykket er det vi gjør ført. Samme med A og S. 
 
 # Eksempel med MDAS
 ## Eksempel 1:

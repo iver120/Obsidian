@@ -391,3 +391,25 @@ f(-2)=-2+3 = 1
 $$
 
 Dermed er koordinatet: $(-2,1)$ 
+
+#  Regresjon 
+## Forklaring
+Når vi har en bestemt samling med datapunkter kan vi legge inn punktene i et koordinatsystem. For eksempel om man måler høyde og vekt på alle i klassen. Kan vi lage koordinater med vekt som x-verdi og høyde som y-verdi. (vekt, høyde). Det regresjonsanalysen gjør er å finne en funksjon som best mulig passer dataene. 
+
+### Oppgave 1: 
+Finn en lineær funksjon som best beskriver dataene i oppgaven. 
+
+Bruk funksjonen til å forutsi hvor mye en person som er 250cm veier. 
+
+### Oppgave 2: 
+Finn den lineære funksjonen som best beskriver dataene: 
+
+Inntekt:           1000kr, 1500kr, 2000kr, 500kr, 200kr, 700kr    
+arbeidstimer: 9,         , 12,         17,        6,            3,         4
+
+
+Bruk modellen til å si hvor mye man kan tjene på 25 timer. 
+
+Hvor mange timer har man jobbet om man tjente 4000kr? 
+
+Hvor mye mer tjener man i snitt ekstra om man jobber en time mer? 
