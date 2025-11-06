@@ -185,3 +185,48 @@ $$
 0 = 7x -500 \implies x = \frac{500}{7}
 $$
 Runder av til nærmeste heltall for å finne antallet. 
+
+
+# 13. 
+Finn en lineær funksjon som best passer dataene under: 
+
+| Alder (år) | høyde (cm) |
+| ---------- | ---------- |
+| 1          | 50         |
+| 2          | 80         |
+| 3          | 100        |
+| 4          | 120        |
+| 5          | 125        |
+| 6          | 130        |
+| 7          | 150        |
+| 8          | 155        |
+| 9          | 155        |
+
+Bruk funksjonen du finner til å estimere høyden etter 25år. Reflekter rundt denne modellen sine styrker og svakheter. 
+
+![[Pasted image 20251106171025.png]]
+Taster inn x = 25. Får 370cm som svar. 
+
+1. ulempe kan være at den starter på 55, som er høyere enn etter ett år. 
+2. Den ser ut til å stamme godt mellom 2 og 9 år. 
+3. Denne modellen antar lineær vekst ut i uendeligheten. 
+
+# 14. Lag to funksjoner for å finne ut hvilken avtale som er best:
+
+1. Få 200kr uansett og 140kr per time. 
+2. få 170kr per time. 
+
+Vis utregning både på ark og i GeoGebra. 
+
+1. $f(x)=200+140x$
+2. $g(x)=170x$
+![[Pasted image 20251106172158.png]]
+Om vi regner med hele timer vil tilbud 1 lønne seg frem til og med 6 timer og tilbud 2 lønne seg fra og med 7 timer og mer. Brukte skjæringspunkt for å se når tilbudene ville gitt samme lønn. 
+
+Løser nå for hånd og forventer samme svar: 
+$$
+200+140x = 170x \implies x = \frac{200}{30}=\frac{20}{3} \approx 6.67
+$$
+
+Jeg vet nå at man tjener likt etter 6.67 timer. Dermed kan jeg sjekke hvem av funksjonen som er størst ved 7 timer. Eller tenke at funksjonen med høyest stigning er best over lengre tid og at funksjonen med høyest konstantledd er best på kort tid. 
+
