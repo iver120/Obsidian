@@ -230,3 +230,5 @@ $$
 
 Jeg vet nå at man tjener likt etter 6.67 timer. Dermed kan jeg sjekke hvem av funksjonen som er størst ved 7 timer. Eller tenke at funksjonen med høyest stigning er best over lengre tid og at funksjonen med høyest konstantledd er best på kort tid. 
 
+
+
