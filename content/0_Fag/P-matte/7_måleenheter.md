@@ -16,10 +16,15 @@ Vi vet at 1km = 1000m, dermed kan vi regne oss bakover:
 10m = 0.01km=0.001mil
 
 ## Areal (todimensjonale enheter)
+
 $cm^2 = cm \cdot cm$
+
 $mm^2 = mm \cdot mm$
+
 $km^2$
+
 $m^2$
+
 ### Når dukker arealenhetene opp? 
 Kanskje man lurer på arealet av et rom, da må vi gange sammen endimensjonale enheter som vil resultere i en todimensjonal enhet. 
 
@@ -37,7 +42,9 @@ $40m^2 = 40\cdot 100dm^2 = 4000dm^2$
 mm, cm, dm, m, km, mil 
 ## Volum (tredimensjonale enheter)
 $cm^3$
+
 $mm^3$
+
 $km^3$
 
 ## HUSK! 1 $Liter = 1dm^3$
