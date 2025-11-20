@@ -13,10 +13,7 @@ Vi har 10 meter, finn hvor mye det blir i alle enhetene nevnt ovenfor:
 
 Men hva med km?? 
 Vi vet at 1km = 1000m, dermed kan vi regne oss bakover:
-1km = 0.01km 
-
-mil ?? 
-0.001mil
+10m = 0.01km=0.001mil
 
 ## Areal (todimensjonale enheter)
 $cm^2 = cm \cdot cm$
@@ -43,8 +40,7 @@ $cm^3$
 $mm^3$
 $km^3$
 
-## HUSK! 1 Liter = 1dm^3
-
+## HUSK! 1 $Liter = 1dm^3$
 
 Rommet har en høyde på 3m. Hva blir volumet til hele rommet? 
 
@@ -156,15 +152,20 @@ Om vi ser at enhetene blir feil når vi har regnet ferdig er det ofte en god lø
 Dermed får vi: 
 $$
 \frac{31g}{19.3\frac{g}{cm^3}} = \frac{31g}{\frac{19.3g}{cm^3}} = 31g \cdot \frac{cm^3}{19.3g} \approx 1.61cm^3
-$$![[Pasted image 20251120170406.png]]
+$$
+
+![[Pasted image 20251120170406.png]]
 
 $$
 V=250cm^3 = 0.25dm^3
 $$
+
 $$
 p = \frac{0.42kg}{0.25dm^3}=1.68\frac{kg}{dm^3}
 $$
+
 ![[Pasted image 20251120170917.png]]
+
 $$
 2L \cdot \frac{1.03kg}{L}=2.06kg
 $$
@@ -174,15 +175,19 @@ Om vi har $2500cm^3$ med melk: Hvor mye veier det i kg?
 $$
 2500cm^3 = 2.5dm^3 = 2.5L
 $$
+
 $$
 2.5L \cdot\frac{1.03kg}{L} = 2.575kg
 $$
+
 ![[Pasted image 20251120171557.png]]
 
 $$
 \frac{72km}{t} \cdot 3t = 216km
 $$
+
 ![[Pasted image 20251120171743.png]]
+
 $$
 40min = \frac{40t}{60}
 $$
@@ -190,10 +195,13 @@ $$
 $$
 \frac{15km}{\frac{40t}{60}} = 15km \cdot \frac{60}{40t}= 15km \cdot \frac{3}{2t} = \frac{45km}{2t}=22.5km/t
 $$
+
 ![[Pasted image 20251120172236.png]]
+
 $$
 \frac{2.5km}{\frac{4km}{t}} = 2.5km \cdot \frac{t}{4km} =0.625t
 $$
+
 $$
 0.625m \cdot 60 = 37.5m
 $$
