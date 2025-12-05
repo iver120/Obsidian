@@ -228,3 +228,61 @@ $$
 
 ![[Pasted image 20251120173130.png]]
 
+## Først få like enheter
+0.6L per mil = 0.06L per km
+
+$$
+0.06\frac{L}{km}
+$$
+## Hvor mange km ble kjørt? 
+$$
+3t \cdot 80\frac{km}{t}=240km
+$$
+## Hvor mye bensin på 240km?
+$$
+0.06\frac{L}{km} \cdot 240km = 0.06L \cdot 240 = 14.4L
+$$
+# Vei, fart og tid 2
+## Oppgave 1
+Om en solstråle har en fart på 299792458m/s og bruker 8 minutter til jorden. hvor langt er det fra solen til jorden? Rund opp og gjør om til standardform. Svar i km. 
+
+$$
+3.0 \cdot 10^8\frac{m}{s}
+$$
+
+Gjøre om minutter til sekunder 
+$8*60s = 480s$
+
+$$
+3.0 \cdot 10^8\frac{m}{s} \cdot 4.8 \cdot 10^2s
+$$
+$$
+1.44 \cdot 10^{11}m
+$$
+
+$$
+1.44 \cdot 10^{8}km
+$$
+## Oppgave 2
+Hvor lang tid kommer det til å ta om man løper i 15km/t om man skal løpe 40mil. gjør om svaret til timer, minutter og sekunder. 
+
+Gjør mil og til km 
+40mil = 400km 
+
+$$
+\frac{400km}{15\frac{km}{t}}=26.27t
+$$
+26t 
+16m
+12s
+
+Om man løper med en fart på 12kmt og løper en distanse på 2.2mil. Finn tid i timer, minutter og sekunder. 
+
+2.2mil = 22km
+
+22km/12km/t = 1.833t
+
+1t
+49m
+58.8s
+

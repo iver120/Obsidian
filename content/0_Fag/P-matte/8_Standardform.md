@@ -42,7 +42,7 @@ $$
 
 Test med kalkulator: 
 
-1.2x10^17 
+$1.2\cdot10^{17}$
 
 Regn ut med standardform: 
 $$
