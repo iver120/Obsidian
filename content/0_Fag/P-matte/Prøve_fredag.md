@@ -70,3 +70,59 @@ $$
 $$
 \frac{5}{1.2} \cdot 10^{-8-5} \cdot 2 = \frac{10}{1.2} \cdot 10^{-13}=8.3 \cdot 10^{-13}
 $$
+## Oppgave 4
+En kopp er utformet som en kjegle som står opp ned. Den innvendige høyden er 10cm og den rommer 2dL, Hva er radiusen til denne koppen? 
+
+Formel: 
+$$
+V=\frac{\pi r^2 h}{3}
+$$
+$$
+V = 2dL=0.2L = 0.2dm^3
+$$
+$$
+h=10cm = 1dm
+$$
+
+$$
+0.2dm^3 = \frac{\pi r^2 \cdot 1dm}{3}
+$$
+
+$$
+0.6dm^3 = \pi r^2 \cdot 1dm
+$$
+$$
+\frac{0.6dm^2}{\pi} = r^2
+$$
+$$
+\sqrt{\frac{0.6dm^2}{\pi}} = r
+$$
+$$
+0.44dm = r
+$$
+eksempel uten kalkulator med snillere tall
+$$
+\sqrt{\frac{16a^2}{36}} = \frac{\sqrt{16}\sqrt{a^2}}{\sqrt{36}}=\frac{4a}{6}
+$$
+
+Hvor stort måtte volumet vært i liter for at diameteren skulle vært 10cm? 
+
+$$
+V = \frac{\pi (5cm)^2 \cdot 10cm}{3} = 261.8cm^3 =0.2618
+$$
+
+$$
+V = \frac{\pi (0.5dm)^2 \cdot 1dm}{3} =0.2618dm^3
+$$
+
+Om vi skal fylle den lille (nye) koppen med vann. Hvor mye vann kan vi fylle per minutt for at prosessen skal ta 90 sekunder? 
+
+
+mål --> finne liter/min 
+
+90s = 1.5min
+
+$$
+\frac{0.2618L}{1.5min} = 0.17\frac{L}{min}
+$$
+
