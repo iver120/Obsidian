@@ -108,7 +108,7 @@ $$
 Hvor stort måtte volumet vært i liter for at diameteren skulle vært 10cm? 
 
 $$
-V = \frac{\pi (5cm)^2 \cdot 10cm}{3} = 261.8cm^3 =0.2618
+V = \frac{\pi (5cm)^2 \cdot 10cm}{3} = 261.8cm^3 =0.2618dm^3
 $$
 
 $$
@@ -125,4 +125,81 @@ mål --> finne liter/min
 $$
 \frac{0.2618L}{1.5min} = 0.17\frac{L}{min}
 $$
+![[Pasted image 20251211170356.png]]
+
+$$
+\frac{0.000008}{40000} \cdot 2000 = \frac{0.000008}{20} = \frac{8 \cdot 10^{-6}}{2 \cdot 10^1}=4 \cdot 10^{-7}
+$$
+
+![[Pasted image 20251211171224.png]]
+$$
+\frac{10 \cdot 10^2}{5 \cdot 10^3}=2\cdot10^{-1}
+$$
+
+![[Pasted image 20251211171431.png]]
+
+$$
+V=3.14 \cdot  r^2 \cdot h
+$$
+h = 7cm
+$$
+3.5L = 3.5dm^3 = 3500cm^3
+$$
+$$
+3500cm^3 = 3.14 \cdot r^2 \cdot 20cm
+$$
+casio fx -82cw avrunding 
+$$
+\frac{3500cm^3}{3.14 \cdot 20cm} = r^2
+$$
+$$
+55.732cm^2 = r^2
+$$
+$$
+7.465cm = r
+$$
+
+b) 
+
+$$
+V = \pi r^2 h
+$$
+$$
+\sqrt{\frac{V}{\pi h}} = r
+$$
+
+
+
+![[Pasted image 20251211172849.png]]
+$$
+V = \frac{4\pi r^3}{3}
+$$
+$$
+3V = 4\pi r^3
+$$
+$$
+\sqrt[3]\frac{3V}{4 \pi} = r
+$$
+![[Pasted image 20251211173311.png]]
+
+$$
+V = \pi r^2 h
+$$
+r = 1m
+
+$$
+V = 3.14 \cdot (1m)^2 \cdot 3m = 9.42m^3
+$$
+$$
+V = 9.42m^3 = 9420dm^3 = 9420L
+$$
+$$
+\frac{9420L}{250\frac{L}{min}} = 37.68min
+$$
+
+0 timer 
+
+37 minutter 
+
+0.68 * 60 = 40.8 ≈ 41 sekunder 
 
