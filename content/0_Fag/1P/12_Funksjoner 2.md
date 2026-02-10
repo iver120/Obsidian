@@ -107,8 +107,45 @@ $$
 
 
 $$
-a = \frac{f(17)-f(13)}{17-13}
+a = \frac{y_2-y_1}{x_2-x_1}=\frac{f(17)-f(13)}{17-13}
 $$
 Husk formel fra i sta: 
 ![[Pasted image 20260129170504.png]]
+
+## Momentan vekstfart 
+
+
+
+# Eksponentialfunksjoner 
+Skrives i formen: 
+$$
+f(x) = ab^x
+$$
+
+a er der funksjonen treffer x-aksen. Om b er større enn 1 er den stignende og om b er mindre enn 1 er den synkende. 
+
+Kan b også ha noe med prosentvis endring å gjøre? 
+
+$b-1=$ prosentvis økning. 
+
+
+
+
+## oppgave: 
+Du setter 50000kr i banken på en konto med en rente på 3.5%. Samtidig lurer du på hvor mye mer du kunne tjent på disse pengene om du satt de på fond. Der sier Halgeir fra luksusfellen at du kan forvente 7% avkastning i året. Om man har pengene i fond eller konto i 5 og 10 år hvor stor er forskjellen? 
+
+
+Vi starter med å lage to funksjoner: 
+$$
+f(x)=50000 \cdot (1+0.035)^x
+$$
+$$
+g(x)=50000 \cdot (1+0.07)^x
+$$
+![[Pasted image 20260202165617.png]]
+Jeg har laget en funksjon for hver av mulighetene og sjekket forskjellen på 5 og 10 år ved å bruke avstand på GeoGebra. AD er forskjellen på 5 år med renter vs fond og BC er etter 10 år. 
+
+
+Bilder hentet fra: 
+Skurdal, B., Kristensen, O., Aanensen, S. (2023, 13. februar). Gjennomsnittlig og momentan vekstfart. NDLA. https://ndla.no/nb/r/matematikk-1p/gjennomsnittlig-og-momentan-vekstfart/e7c759c8f4
 
