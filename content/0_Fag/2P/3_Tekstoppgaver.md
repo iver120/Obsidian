@@ -190,3 +190,30 @@ Beskriv prisene på de forskjellige bildene ved hjelp av passende sentralmål og
 |               | Standardavvik    |     |
 ![[Pasted image 20260217171405.png]]
 
+Alle bildene er samme modell men kommer fra forskjellige årstall. 
+
+Du skal nå finne en funksjon som viser sammenhengen mellom årstall og pris. 
+
+![[Pasted image 20260217172517.png]]
+
+ Om vi sier at 2022 er en helt ny bil kan vi lage en funksjon som fanger reduksjon i pris per år. Jeg velger en eksponentiell funksjon da slike sammenhenger ofte er knyttet til prosent. 
+ 
+ 
+La oss si vi lager en regel som sier at bilder i snitt taper sin verdi med 10% per år. Om du har en bil som nå koster 200000 og den er 5 år gammel, hvor mye kostet den da den var ny? 
+
+$$
+\text{nå verdi} = Startverdi \cdot(1+(\text{prosent vekst)})^{år}
+$$
+
+$$
+200000 = x \cdot (1+(-0.1))^5
+$$
+$$
+200000 = x \cdot 0.9^5
+$$
+$$
+\frac{200000}{0.9^5}=x
+$$
+$$
+338702 = x
+$$
