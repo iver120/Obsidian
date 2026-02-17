@@ -70,5 +70,76 @@ $$
 40=x
 $$
 
+
+## Oppgave 2
+En klasse skal på tur til tyskland. De får ett tilbud på buss for 20000kr. Elevene må selv samle inn penger til dette. Hva må hver elev betale om det er 15 elever i klassen? 
+
+$$
+pris_{15} = \frac{20000}{15}
+$$
+Hvor mye må de betale om det er 20 elever? 
+$$
+pris_{20}=\frac{20000}{20}
+$$
+
+### omvendt proporsjonale størrelser som funksjoner
+Kan du lage en funksjon som kan brukes i oppgaven over? P(x)
+
+$$
+P(x)=\frac{20000}{x}
+$$
+Bruk funksjonen til å finne prisen for 5 elever
+
+$$
+P(5)=\frac{20000}{5} = 4000
+$$
+Hvordan ville du skrevet en omvendt proporsjonal funksjon på en generell måte? 
+$$
+f(x) = \frac{a}{x}
+$$
+Hvor a er en konstant
+
+Hva er definisjonsmengden for funksjonen i oppgaven over? 
+$$
+D_f=[15, 40]
+$$
+
+Vi forholder oss utelukkende til at x>0 her. 
+
+## Oppgave 3
+Kan du komme med ett eksempel fra hverdagen for både en proporsjonal størrelse og en omvendproporsjonal størrelse? 
+
+Omvendtproporssjonal spleise på pizza
+Proporsjonal Hvor langt en bil kjører på x-timer eller hvor mye det koster for x-av noe
+
+Hva med noe som kan beskrives ved hjelp av en lineær funksjon? 
+f(x)=ax+b
+
+Alle typer situasjonen hvor man får en fast pris og deretter må betale per tid eller liknende med lønn
+
+## Oppgave 3
+Avgjør om den lineære funksjonen som går gjennom $A = (1, 1)$, $B=(2, 2)$
+
+$$
+y = ax+b
+$$
+
+$$
+-x+y = 0
+$$
+$$
+y = x
+$$
+Hvordan kunne vi funnet ut av dette på en sikker måte uten GeoGebra? 
+hint: 
+$$
+a = \frac{y_2-y_1}{x_2-x_1}
+$$
+
+
+
+
+
+
 Oppgaver hentet fra NDLA: 
 Aanensen, S., Kristensen, O., Holter, T. A. (2022, 30. april). Proporsjonalitet. NDLA. https://ndla.no/nb/r/matematikk-1p/proporsjonalitet/31c69b61ea

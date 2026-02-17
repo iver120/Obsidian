@@ -100,3 +100,93 @@ $$
 $$
 x = \frac{2000}{0.3}=6666.67L
 $$
+# Oppgave 6
+En formel for å estimere en persons maksimale hjerterytme er  
+
+$$
+206 - (0.7 \cdot  alder) = makspuls
+$$
+Om en person har makspuls på 160, hvor gamle er de da? 
+$$
+160 = 206-(0.7 \cdot alder)
+$$
+$$
+160 = 206-0.7x
+$$
+$$
+160-206=-0.7x
+$$
+$$
+-46 = -0.7x
+$$
+$$
+\frac{-46}{-0.7} = x
+$$
+$$
+65.7 = x
+$$
+
+
+$$
+206 - (0.7 \cdot  alder) = makspuls
+$$
+kan du se en svakhet med denne formelen? 
+
+Den er nok ikke veldig presis grunnet store individuelle variasjoner. 
+
+Kan du lage en funksjon som regner makspuls ut ifra alder? 
+
+P(x) = 206-0.7x
+
+Løs den forrige oppgaven ved hjelp av GeoGebra
+
+Hvilke verdier befinner seg på y-aksen ? --> puls
+
+hvilke verdier befinner seg på x-aksen ?  --> alder
+
+![[Pasted image 20260216171905.png]]
+Som vist i punkt A, alderen 65.71 henger sammen med en puls på 160. 
+
+Hva sier formelen at makspulsen til en 100åring vil være? 
+
+Finner P(100) = 136. 
+
+# Oppgave 7
+En aksjer vil doble seg etter denne formelen: 
+
+$$
+fordoblingstid = \frac{72}{\text{forventetavkastning i prosent}}
+$$
+
+Dette kaller for 72 regelen. 
+
+Bruk denne sammenhengen til å finne ut hvor lang tid det tar før en aksjer med forventet årlig vekst på 12% vil doble sin verdi. 
+
+$$
+\frac{72}{12} = 6år
+$$
+Kan du nå bruke GeoGebra til å vise hvor godt eller dårlig denne forenklingen stemmer? 
+
+Lag en funksjon for verdi V(x) der x er år
+
+$$
+V(x) = 1 \cdot(1+0.12)^x
+$$
+
+# Oppgave 8
+I en bilbutikk koster bruktbilene som stilles ut: 
+
+D = {150000, 200000, 100000, 240000, 320000, 120000, 150000}
+
+Beskriv prisene på de forskjellige bildene ved hjelp av passende sentralmål og spredningsmål. 
+
+
+| Sentralmål    | Gjennomsnitt     |     |
+| ------------- | ---------------- | --- |
+|               | Median           |     |
+|               | Typetall         |     |
+| Spredningsmål | Variasjonsbredde |     |
+|               | Kvartilbredde    |     |
+|               | Standardavvik    |     |
+![[Pasted image 20260217171405.png]]
+
