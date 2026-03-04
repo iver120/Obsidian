@@ -111,3 +111,45 @@ s^2 = 16
 $$
 s = 4
 
+# Tekstoppgave fra bok 
+
+2220kg vekt uten last 
+kan lastes med 28260kg
+
+6.06m
+2.44m
+2.59m
+
+a) 
+1. Finn ut hvilken figur det er
+2. Finn formel for figuren 
+3. regn ut 
+
+$$
+V_{konteiner}=2.59m \cdot 6.06m \cdot 2.44m = 38.30m^3
+$$
+b) 
+$$
+\frac{20ft}{20} = \frac{609.6cm}{20}
+$$
+$$
+1ft = 30.48cmcm
+$$
+Deler begge sider av likningen på 20 for å finne 1ft i centimeter. 
+
+c)
+2220kg vekt uten last 
+kan lastes med 28260kg
+
+$$
+2220kg + 28260kg = \underline{\underline{30480kg}}
+$$
+
+
+
+
+
+
+
+
+
