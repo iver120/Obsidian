@@ -38,11 +38,11 @@ Bytter ut y i likning 2 med 4x
 
 likning 2: y+x = 50
 $$
-\begin{align}
+\begin{align*}
 4x+x=50 \\
 5x = 50 \\
 x = 10
-\end{align}
+\end{align*}
 $$
 Nå kan vi sette verdien for x inn i en av likningene for å finne y 
 
@@ -53,32 +53,32 @@ bestemoren er 40 år gammel
 ### Oppgave 4
 En bror er dobbelt så gammel som sin søster. Søsteren er 7år, hvor gammel er broren? 
 $$
-\begin{align}
+\begin{align*}
 2s = b \\
 s = 7
-\end{align}
+\end{align*}
 $$
 $$
-\begin{align}
+\begin{align*}
 2(7) = b \\
 14 = b
-\end{align}
+\end{align*}
 $$
 
 ### Oppgave 5
 En bror er dobbelt så gammel som sin søster. Til sammen er de 18 år. Hvor gammel er broren? 
 $$
-\begin{align}
+\begin{align*}
 b = 2s \\
 s+b = 18
-\end{align}
+\end{align*}
 $$
 $$
-\begin{align}
+\begin{align*}
 s+2s&=18 \\
 3s&=18\\
 s&=6
-\end{align}
+\end{align*}
 $$
 $$
 b = 2(6) = 12
@@ -116,13 +116,13 @@ Lag A fikk 6 poeng mer enn lag B, til sammen fikk de 38 poeng. Hvor mange poeng 
 A=B+6
 A+B=38
 $$
-\begin{align}
+\begin{align*}
 (B+6) +B=38 \\
 B+6 +B=38 \\
 2B+6=38 \\
 2B = 32 \\
 B=16
-\end{align}
+\end{align*}
 $$
 
 
@@ -131,17 +131,22 @@ A=16+6=22
 ### Oppgave 9
 Tre venner samlet flasker. Den andre (b) samlet 2 flere enn den første (a) og den tredje  (c) samlet 6 flere enn den første. Til sammen samlet de 29 flasker. Hvor mange flasker samlet de hver? 
 
-l     a+b+c=29
+l     a+b+c=29 
+
 ll    b = a+2
+
 lll   c = a+5
 
 l     a+b+c=29
-a + (a+2) + (a+6) = 29
-a + a+2 + a+6 = 29
-3a+8 = 29
-3a = 21
-a = 7
-
+$$
+\begin{align*}
+a + (a+2) + (a+6) &= 29 \\
+a + a+2 + a+6 &= 29 \\
+3a+8 &= 29 \\
+3a &= 21 \\
+a &= 7 \\
+\end{align*}
+$$
 ll    b = a+2 = (7)+2 = 9
 lll   c = a+5 = (7)+5 = 12
 
@@ -161,21 +166,24 @@ lll e = y+5
 
 
 ll   m = 3y
+
    2e = 3y ---> må løses for e
+   
   $\frac{2e}{2} = \frac{3y}{2}$
-    $e = \frac{3y}{2}$
+  
+$e = \frac{3y}{2}$
     
 
 lll
 $$
-\begin{align}
+\begin{align*}
 e &= y+5 \\
 (\frac{3y}{2}) &= y+5 \\
 \frac{3y}{2} \cdot 2 &= 2\cdot(y+5) \\ 
 3y &= 2(y+5) \\
 3y &= 2y+10 \\
 y &= \underline{\underline{10}}
-\end{align}
+\end{align*}
 $$
 
 
