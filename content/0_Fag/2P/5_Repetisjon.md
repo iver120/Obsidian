@@ -192,3 +192,91 @@ l   m = 2e
 ll   $m = 3y = 3(10) = \underline{\underline{30}}$
 
 lll $e = y+5 = (10)+5 = \underline{\underline{15}}$
+
+
+
+![[Pasted image 20260317170231.png]]
+
+b = billig 
+m = middels
+d = dyr 
+
+l    m = 2b
+ll    d = m+5
+lll    b+m+d=45
+
+
+ll  d = 2b+5
+
+
+lll b+m+d=45
+   b+(2b)+(2b+5)=45
+   b+2b+2b+5=45
+   5b+5=45
+   5b=40
+   b = 8
+
+Den billige koster 8kr 
+
+l m = 2b = 2(8) = 16
+
+Den midtre koster 16kr 
+
+ll  d = 2b+5=2(8)+5 = 21
+
+Den dyre koster 21kr 
+
+![[Pasted image 20260317171201.png]]
+
+s = stol 
+b = bord
+
+
+
+l   s = 4b
+ll 200s + 800b = 8000
+   200(4b) + 800b = 8000
+   800b + 800b = 8000
+   1600b = 8000
+b = 8000/1600=4000/800=40/8=20/4=10/2=5
+
+l s = 4(5)=20
+
+
+Sykkelbutikk selger tre typer sykkelhjelmer
+enkel, middels og avansert. Middels koster 3 ganger så mye som enkel og avansert koster 100 kroner mer enn middels. Til sammen koster hjelmene 900kr 
+
+Hva koster hver hjelm? 
+
+l  m = 3e 
+ll a = m+100 
+lll  m+a+e = 900 
+
+ll a = 3e+100
+
+lll 3e+3e+100+e=900
+
+
+e = 800/7
+
+ll  a=(800/7) x3+100
+
+l  m = (800/7) x 3 
+
+lll  (800/7)x3+(800/7)x3+100+800/7 = 900 
+
+
+
+
+
+
+Du skal lage pizza. I oppskriften står det at du skal ha 70 prosent av melets vekt i vann. Du skal lage 3 pizzabunner som hver veier 200g. Hvor mye mel og hvor mye vann må du bruke? 
+
+
+
+
+
+
+
+
+

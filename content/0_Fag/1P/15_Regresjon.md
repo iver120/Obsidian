@@ -104,3 +104,45 @@ y = ax+b
 
 y = 6000x+200000
 
+
+| årstall | t-verdi | Antall elbilder (E(t)) |
+| ------- | ------- | ---------------------- |
+| 2016    | 0       | 97532                  |
+| 2017    | 1       | 138983                 |
+| 2018    | 2       | 195351                 |
+| 2019    | 3       | 260692                 |
+![[Pasted image 20260312171044.png]]
+$$
+E(t) = 98956 \cdot 1.3896^t
+$$
+b) Det øker med ca 39 prosent i året. 
+
+![[Pasted image 20260312171435.png]]
+
+Ladere etter t år kan vi skrive som: 
+$$
+L(t)=7701 \cdot 1.1878^t
+$$
+
+| 16  | 0   |
+| --- | --- |
+| 17  | 1   |
+| 18  | 2   |
+| 19  | 3   |
+|     |     |
+Vi setter inn 3 som t
+![[Pasted image 20260312171710.png]]
+Bruker geogebra og setter x = 3, da får vi y = 12905 som i vår modell er L(3)
+
+e)
+Vi bytter ut prosent økning, men beholder antallet ladere ved år 0 (2016)
+
+$$
+L(t)=7701 \cdot 1.3896^t
+$$
+Bruker GeoGebra for å evaluere og får 20664 ladere i 2019 (t=3)
+![[Pasted image 20260312172129.png]]
+
+
+
+

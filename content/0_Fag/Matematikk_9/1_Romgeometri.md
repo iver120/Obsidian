@@ -144,12 +144,177 @@ kan lastes med 28260kg
 $$
 2220kg + 28260kg = \underline{\underline{30480kg}}
 $$
+### Oppgave 3.10
+kategori 1
+a) 
+Finner formel: A = l x b
+
+$$
+A = 5m \cdot 4m = 20m^2
+$$
+b) 
+Finner formel: V = l x b x h
+
+$$
+V = 5m \cdot 4m \cdot 2m = 40m^3 = 5 \cdot 4 \cdot 2 \cdot m \cdot m \cdot m
+$$
+
+kategori 2
+![[Pasted image 20260311162836.png]]
+
+Kategori 3
+
+Vi gjør om cm til meter for å få like enheter. Da vi allerede har regnet ut arealet til bunn og sideflater i meter. 
+
+$A_{bunn+sider} = 56m^2$
+
+20cm = 0.2m
+
+$A_{flis} = 0.2m \cdot 0.2m = 0.04m^2$
+
+$$
+\frac{56m^2}{0.04m^2}=\frac{5600}{4}=\frac{2800}{2}=1400
+$$
+
+b) 
+V=40000L (se kategori 2)
+
+Strategien ville vært å gjøre om dil dm og finne liter. 
+
+$$
+\frac{40000L}{50\frac{L}{min}}=\frac{40000}{50}min=\frac{4000}{5}min=400 \cdot 2min = 800min
+$$
+
+### Oppgave 3.25
+Katagori 2
+Ser vi må bruke pytagoras. finner derfor katetene da høyden i trekanten er hypotenusen. 
+$$
+katet_{1}=35m:2 = 17.5m
+$$
+$$
+katet_{2} = h = 21.6m
+$$
+$$
+katet^2+katet^2=hypotenus^2
+$$
+$$
+17.5^2+21.6^2=x
+$$
+$$
+\sqrt{772.81}=\sqrt{x^2}
+$$
+$$
+27.8m=x
+$$
 
 
 
 
+# Målark
+1. regne volum av rette rektangulære prismer
+	1. $h \cdot l \cdot b = V_{rett rektangulært prisme}$
+	2. $G \cdot h =$ V_{rett rektangulært prisme}
+	3. Kontroll
+2. Eleven skal kunne gjøre om mellom ulike volumenheter
+	1. Hvor mange $dm^3$ er $1m^3$ 
+	2. kontroll
+3. Eleven skal kunne regne ut areal av overflaten til rette rektangulære prismer 
+	1. kontroll 
+4. Eleven skal kunne regne ut volumet av prismer som ikke er rektangulære
+	1. Her må vi tenke grunnflate ganget med høyde 
+	2. sylinder 
+	3. trekantet prisme 
+5. Eleven skal kunne regne ut volumet av ulike pyramider 
+	1. $V = \frac{Gh}{3}$ 
+6. Eleven skal kunne regne ut volumet av en sylinder 
+	1. kontroll
+	2. $V=Gh$
+	3. $V=\pi r^2 \cdot h$
+7. Eleven skal kunne regne ut arealet av overflaten til en sylinder 
+	1. $A = 2\pi r^2 + d \cdot \pi \cdot h$
+8. Eleven skal kunne regne ut volumet av en kjegle 
+	1. $V = \frac{Gh}{3}$ 
+	2. $V=\frac{\pi r^2 \cdot h}{3}$ 
+9. Eleven skal kunne regne ut volumet og overflaten av en kule 
+	1. $V=\frac{4 \pi r^3}{3}$ 
+	2. $A = 4 \pi r^2$
+10. Eleven skal kunne utforske og løse problemer i forbindelse med geometriske figurer
+
+### Oppgave 1
+Ett rett rektangulært prisme er 3 meter bredt, 4 meter langt og har en høyde på 1 meter. Hva er volumet i liter? 
+$$
+V = 3m \cdot 4m \cdot 1m = 12m^3 = 12000dm^3=12000L
+$$
+### Oppgave 2
+Ett rett rektangulært prisme har en grunnflate på $23m^2$ og en høyde på 2 meter. Hva er volumet?
+
+$$
+V = 23m^2 \cdot 2m = 46m^3
+$$
+### Oppgave 3 
+Hvor mange $dm^3$ er $1m^3$ 
+
+$1dm^3 = 1dm \cdot 1dm \cdot 1dm$ 
+
+$1m^3 = 1m \cdot 1m \cdot 1m$ 
+$1m^3 = 10dm \cdot 10dm \cdot 10dm=1000dm^3$ 
+
+### oppgave 4 lag en oversikt over overganger mellom forskjellige enheter 
 
 
+Tabell for lineære enheter. Her må vi dele på 10 og gange med 10.
 
+| m     | dm   | cm  | mm   |
+| ----- | ---- | --- | ---- |
+| 1     | 10   | 100 | 1000 |
+| 2     | 20   | 200 | 2000 |
+| 0.2   | 2    | 20  | 200  |
+| 0.005 | 0.05 | 0.5 | 5    |
+| 0.034 | 0.34 | 3.4 | 34   |
+Kvadratiske enheter her ganger vi og deler med 100 for å flytte fra plass til plass
 
+| m^2      | dm^2   | cm^2  | mm^2    |
+| -------- | ------ | ----- | ------- |
+| 1        | 100    | 10000 | 1000000 |
+| 2        | 200    | 20000 | 2000000 |
+| 0.002    | 0.2    | 20    | 2000    |
+| 0.15     | 15     | 1500  | 150000  |
+| 0.000001 | 0.0001 | 0.01  | 1       |
 
+| m^3         | dm^3     | cm^3    | mm^3       |
+| ----------- | -------- | ------- | ---------- |
+| 0.000000001 | 0.000001 | 0.001   | 1          |
+| 1           | 1000     | 1000000 | 1000000000 |
+|             |          |         |            |
+### Oppgave 5
+![[Pasted image 20260318163451.png]]
+
+Grunnflaten til prismen har en grunnlinje på 8cm og en høyde på 5cm. Høyden på selve prismen er 10cm 
+
+Siden formelen er: $V = Gh$ må vi først regne ut G som er et areal av en trekant. 
+
+$$
+G = \frac{gh}{2}=\frac{10cm \cdot 5cm}{2}  =\frac{50cm^2}{2}=25cm^2
+$$
+$$
+V = Gh = 25cm^2 \cdot 10cm = 250cm^3
+$$
+
+### Oppgave 4
+En sylinder har grunnflate på $10cm^2$ og en høyde på 20cm. Hva blir volumet? 
+
+$$
+V = Gh = 10cm^2 \cdot 20cm = 200cm^3
+$$
+### Oppgave 5
+En annen sylinder har en radius på 10cm men samme høyde som forrige oppgave. Hva blir volumet? 
+
+$$
+V = Gh
+$$
+$$
+G = 3.14 \cdot 10cm \cdot 10cm = 314cm^2
+$$
+$$
+V = 314cm^2 \cdot 20cm = 6000cm^3+280cm^3=6280cm^3
+$$
