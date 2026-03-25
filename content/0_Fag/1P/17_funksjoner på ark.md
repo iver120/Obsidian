@@ -2,6 +2,7 @@
 $$
 x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
 $$
+
 # Topp eller bunnpunkt 2. grad 
 $$
 x = \frac{-b}{2a}

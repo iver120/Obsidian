@@ -318,3 +318,92 @@ $$
 $$
 V = 314cm^2 \cdot 20cm = 6000cm^3+280cm^3=6280cm^3
 $$
+# Massetetthet 
+- Masse handler om hvor mye det er av noe, målt i vekt
+- tetthet er hvor godt det er pakket sammen 
+
+## Benevninger 
+Masse er ikke volum, men vekten til noe. 
+
+Dermed er vekt delt på volum massetetthet
+
+Formelen er under: 
+
+p står for massetetthet 
+
+$$
+p = \frac{m}{V}
+$$
+Ofte målt som $g/cm^3$ eller $kg/m^3$ 
+
+Om vi skal finne massetettheten til ett stoff trenger vi dermed bare å dele vekt på volum for stoffet. og passe på at vi har gram delt på kubikkcentimeter eller kilo delt på kubikkmeter. 
+
+Eksempel: 
+Om vi har 1 liter jern og det veier 7.88kg kan vi finne massetetthet ved å bruke formelen: 
+
+1L = 1dm^3 = 0.001m^3
+
+$$
+p = \frac{7.88kg}{0.001m^3}=\frac{7880kg}{1m^3}=7880\frac{kg}{m^3}
+$$
+2L gull veier 38.64kg. Hva er massetettheten til gull i $g/cm^3$
+
+$$
+2L=2dm^3=2000cm^3
+$$
+$$
+38.64kg = 38640g
+$$
+$$
+p = \frac{38640g:2}{2000cm^3:2}=\frac{19320g}{1000cm^3}=19.32g/cm^3
+$$
+
+Massetettheten til jern er 7880$kg/m^3$. finn ut hvor mye 4$m^3$ med jern veier? 
+$$
+p = \frac{m=kg}{V=m^3}
+$$
+$$
+4 \cdot 7880 = \frac{m}{4} \cdot 4
+$$
+$$
+31520kg = m
+$$
+Vi setter kg i svaret siden m er en masse og det er kg vi først puttet inn i likningen $kg/m^3$
+
+
+Vi har nå 94560kg jern. Hvor mange $m^3$ er det? 
+$$
+p = \frac{m}{V}
+$$
+$$
+7880V = \frac{94560}{V} \cdot V
+$$
+$$
+7880V = 94560
+$$
+$$
+\frac{7880V}{7880} = \frac{94560}{7880}
+$$
+$$
+V=12m^3
+$$
+Det vi alltid må passe på er at vi har omgjort enhetene vi setter inn i likningen så de passer sammen med selve massetettheten. 
+
+7880$kg/m^3$ må derfor bli satt sammen med $m^3$ og kg.
+
+Hvor mye veier 100L gull? 
+
+100L = $100dm^3$ = $100000cm^3$
+$$
+p = 19.32g/cm^3
+$$
+$$
+p = \frac{m}{V}
+$$
+$$
+100000 \cdot 19.32 = \frac{m}{100000} \cdot 100000
+$$
+$$
+1932000g=m
+$$
+Om vi skal gjør om til Kg blir det 1932kg 
