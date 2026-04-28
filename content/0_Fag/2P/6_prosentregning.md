@@ -124,3 +124,108 @@ $$
 x = \frac{4900}{7}=700
 $$
 
+![[Pasted image 20260406170254.png]]
+
+$$
+prosentøkning = \frac{230000-200000}{200000}=0.15=15\%
+$$
+b) 
+$$
+200000(1+0.15)^n
+$$
+
+c) 
+$$
+200000(1+0.15)^4=
+$$
+
+![[Pasted image 20260406170625.png]]
+
+$$
+u \cdot 1.25 = 750
+$$
+
+
+$$
+600 \cdot 1.25 = 750
+$$
+![[Pasted image 20260406170949.png]]
+
+$$
+(1+r)^4 = 2
+$$
+$$
+1+r = 1.189
+$$
+$$
+r = 0.189 = 18.9\%
+$$
+![[Pasted image 20260406171412.png]]
+$$
+5000 \cdot(1+r)^2=6050
+$$
+
+$$
+(1+r)^2=1.21
+$$
+$$
+1+r = 1.1
+$$
+$$
+r = 0.1 = 10\%
+$$
+b) 
+$$
+5000 \cdot(1+0.1)^5=
+$$
+
+![[Pasted image 20260406172218.png]]
+
+$$
+100\%-88\% = 12\%
+$$
+$$
+0.12 \cdot x = 3
+$$
+$$
+x = \frac{300}{12}=\frac{100}{4}=25
+$$
+![[Pasted image 20260406172616.png]]
+
+stor = y 
+liten =x
+
+
+y = x+7
+4x+2y=44
+
+4x+2(x+7) = 44
+6x+14 = 44
+6x = 30
+x = 5 = liten 
+
+y = x+7=5+7 = 12
+
+![[Pasted image 20260407170503.png]]
+
+a) Jeg skal bruke funksjonen til å vise at den gir en halvering på 5år 
+![[Pasted image 20260407171023.png]]
+
+Jeg sjekker hvor mange år det tar før bestanden er halvert i følge modellen på to forskjellige punkt. Vi kan se at bestanden er halvert (12000/2) etter nesten nøyaktig 5 år i punkt A og en ny halvering (6000/2) skjer etter 5 år til i punkt B
+
+![[Pasted image 20260407172300.png|500]]
+
+
+a) 
+U(x) er alt utslipp 
+
+en del er $5000\cdot 0.95^x$ (Tonn CO2)
+Den andre er 1000 (Tonn CO2)
+
+Det kan se ut som Bedriften planlegger å kutte utslippet til den ene prosessen med 5% per år, mens de vil beholde den andre uendret. 
+
+b) 
+U(x) er alt utslipp: Ved år 0 er dette 5000+1000=6000 tonn
+
+Dermed er målet 3000 tonn co2 i utslipp
+

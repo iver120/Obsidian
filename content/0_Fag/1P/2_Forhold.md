@@ -5,7 +5,7 @@ Ofte skrevet som dette $2:9$ Hvor det betyr 2 deler av den ene tingen og 9 deler
 Om vi ser for oss saft. 
 
 ### Eksempel: 
-Vi skal blande 2.2 liter saft og forholdet er $2:9$ (saft til vann). hvor mange desiliter fonsentrert saft blir det og hvor mye vann? 
+Vi skal blande 2.2 liter saft og forholdet er $2:9$ (saft til vann). hvor mange desiliter konsentrert saft blir det og hvor mye vann? 
 
 For å finne mengden konsentrert saft gjør vi som dette: 
 
