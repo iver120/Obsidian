@@ -279,3 +279,106 @@ $$
 
 - Er det med tilbakelegging? (trekker kortet og legger det ikke tilbake, eller legger det tilbake) 
 - Er det avhengig av rekkefølge? 
+
+# Repetisjon 
+## Oppgave terning: 
+Hva er sannsynligheten for å kaste et tall som er høyere enn 3 når du kaster én terning: 
+
+Gunstige utfall er utfallene oppgaven spør etter: 4, 5, 6
+Mulige utfall er alle tallene som kan dukke opp når du kaster terningen: 1, 2, 3, 4, 5, 6 
+$$
+P(større\ enn\ 3)=\frac{gunstige\ utfall}{mulige\ utfall}= \frac{3}{6}=\frac{1}{2}=50\% 
+$$
+
+Hva er sannsynligheten for å kaste et tall som er mindre enn 3 når du kaster én terning? 
+
+
+$$
+P(mindre\ enn\ 3)=\frac{gunstige\ utfall}{mulige\ utfall}= \frac{2}{6}=\frac{1}{3}=33.3\%
+$$
+
+Hva er sannsynligheten for å kaste 2 femmere på rad en terning to ganger? 
+
+|     | 1    | 2    | 3    | 4    | 5    | 6    |
+| --- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1   | 1, 1 | 1, 2 | 1, 3 | 1, 4 | 1, 5 | 1, 6 |
+| 2   | 2, 1 | 2, 2 | 2, 3 | 2, 4 | 2, 5 | 2, 6 |
+| 3   | 3, 1 | 3, 2 | 3, 3 | 3, 4 | 3, 5 | 3, 6 |
+| 4   | 4, 1 | 4, 2 | 4, 3 | 4, 4 | 4, 5 | 4, 6 |
+| 5   | 5, 1 |      |      |      | 5, 5 |      |
+| 6   |      |      |      |      |      | 6, 6 |
+Antall gunstige utfall er bare ett
+Antall mulige her er 36
+
+Dermed kan vi skrive som dette: 
+
+$$
+P(5, 5)=\frac{gunstige}{mulige}=\frac{1}{36}
+$$
+
+
+Hva er sannsynligheten for å få to like tall når du kaster en terning to ganger? 
+
+Mulige utall er fortsatt 36. Det er samme uansett, når vi kaster to terningkast
+
+$$
+P(to\ like)=\frac{6}{36}=\frac{3}{18}=\frac{1}{6}
+$$
+En annen måte å finn sannsynligheten for 5 to ganger er som dette: 
+$$
+P(5\ og \ 5)=P(5) \cdot P(5)=\frac{1}{6} \cdot \frac{1}{6}=\frac{1}{36}
+$$
+Hvor mange gunstige utfall har du om du kaster en terning en gang og skal få fem? ett gunstig 
+
+Hva er sannsynligheten for å kaste 3 femmere på rad? 
+
+$$
+P(5 \ og \ 5\ og\ 5)=P(5) \cdot P(5) \cdot P(5)=\frac{1}{6} \cdot \frac{1}{6} \cdot \frac{1}{6} = \frac{1}{216}
+$$
+
+Vi har fire kort med tallene 1, 2, 3 og 4 på seg. 
+
+OM du trekker to kort i rekkefølge, hva er sannsynligheten for å trekke først 1 og så 3 ? 
+
+1, 2, 3, 4
+
+trakk 1
+
+da er tallene vi har igjen: 
+2, 3, 4
+
+
+
+$$
+P(1\ og \ så \ 3) = P(1) \cdot P(3)=\frac{1}{4} \cdot \frac{1}{3}=\frac{1}{12}
+$$
+
+
+Hva er sannsynligheten for å trekke 1 og 3 om vi ikke bryr oss om rekkefølge? 
+1, 2, 3, 4
+
+Vi ser at det er 2 gunstige utfall ved første trekking. 
+
+om vi trekker 1 eller 3 ved første trekking er det igjen 1 gunstig utfall og 3 mulige
+
+
+$$
+P(1\ og \ 3) = \frac{2}{4} \cdot \frac{1}{3} = \frac{2}{12}=\frac{1}{6}
+$$
+
+
+I en pose er det 5 hvite og 7 svarte kuler. Hva er sannsynligheten for at du trekker to hvite kuler etter hverandre om du ikke legger tilbake? 
+
+hhhhh --> 5
+sssssss --> 7
+
+totalt 12 kuler 
+
+Tenk alltid gunstige og mulige utfall
+
+er det flere ting som skal skje etter hverandre må vi gange. Se etter **og** eller **og så**
+$$
+P(hvit \ og \ hvit ) = \frac{5}{12} \cdot \frac{4}{11}=\frac{20}{132}=\frac{10}{66}=\frac{5}{33}
+$$
+
+

@@ -287,3 +287,90 @@ x = \frac{2m}{1.7m} \cdot 95m \approx 111.8m
 $$
 
 
+Oppgave 5.90 side 300. 
+
+# Målestokk 
+
+## Regne fra forholdstall
+Om vi vet at avstanden fra ett punkt til et annen i virkeligheten er 14km og på kartet er 1.9cm kan vi lage et forholdstall som vi seinere kan bruke til å oversette cm fra kart til km i virkeligheten.
+
+7.37 er forholdstallet her. 
+
+Om vi da vil finne ut hvor langt 5.3cm på kartet er i virkeligheten ganger vi med 7.37 og bytter cm med km. 39km er altså 5.3 cm på kartet. 
+
+## Når man får målestokken oppgitt
+eksempel 1 : 100 betyr at 1cm på kartet tilsvarer 100cm i virkeligheten. 
+
+Eksempel: 
+Petter måler en avstand på 6cm på kartet mellom to punkter. Målestokken er 1:50000. Hvor lang er denne avstanden i virkeligheten i meter? 
+
+$$
+6cm \cdot 50000 = 300000cm = 3000m
+$$
+Rask øvelse måleenheter
+
+| m     | dm   | cm  | mm   |     |     |
+| ----- | ---- | --- | ---- | --- | --- |
+| 3     | 30   | 300 | 3000 |     |     |
+| 0.4   | 4    | 40  | 400  |     |     |
+| 0.001 | 0.01 | 0.1 | 1    |     |     |
+| 1     | 10   | 100 | 1000 |     |     |
+
+| m^2 | dm^2 | cm^2   | mm^2     |
+| --- | ---- | ------ | -------- |
+| 1   | 100  | 10 000 | 1000 000 |
+| 0.3 | 30   | 3000   | 300000   |
+|     |      |        |          |
+|     |      |        |          |
+|     |      |        |          |
+
+| m^3         | dm^3     | cm^3      | mm^3          |
+| ----------- | -------- | --------- | ------------- |
+| 1           | 1000     | 1 000 000 | 1 000 000 000 |
+| 0.000000050 | 0.000050 | 0.050     | 50            |
+|             |          |           |               |
+Hvor mange cm er det i 2.5km ? 
+
+2.5km = 2500m = 2 500 00
+
+
+
+![[Pasted image 20260505170554.png]]
+
+$$
+økning \ KPI = \frac{110.8-100}{100}=10.8\%
+$$
+$$
+økning \ lønn=\frac{440000-400000}{400000}=\frac{40000}{400000}=\frac{4}{40}=\frac{1}{10}=10\%
+$$
+
+Vi kan her se at KPI har økt mer i prosent enn lønn. Dermed har hun i 2019 mindre kjøpekraft. 
+
+![[Pasted image 20260505171354.png]]
+
+
+Hvis: 
+$$
+a^2+b^2=c^2
+$$
+eller: 
+osv...
+
+Eksempel: 
+$$
+3^2+4^4=5^2
+$$
+$$
+25 = 25
+$$
+Programmet kan bekrefte at trekanten er vinkelrett. Ved å si: Trekanten er vinkelrett! 
+
+![[Pasted image 20260505171953.png|400]]
+
+$$
+\begin{align*}
+x^2-5x&<-4 \\
+x^2-5x+4&<0 \\
+(x-4)(x-1)&<0
+\end{align*}
+$$

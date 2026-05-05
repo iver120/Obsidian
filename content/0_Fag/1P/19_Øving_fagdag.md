@@ -383,3 +383,56 @@ $$
 5 = h
 $$
 
+![[Pasted image 20260504163556.png]]
+
+
+$$
+80km/h \cdot 4.5t = 320km+40km=360km
+$$
+![[Pasted image 20260504163836.png]]
+
+
+$$
+200 = x \cdot 1.25
+$$
+$$
+\frac{200}{1.25}=x
+$$
+$$
+200 : \frac{5}{4} = \frac{200}{1} \cdot \frac{4}{5}=\frac{800}{5}=160
+$$
+Pris uten MVA = 160. Dermed betalte han 40kr i MVA. 
+
+![[Pasted image 20260504164512.png]]
+
+$$
+\frac{20}{0.000000005}=\frac{2000000000}{0.5}=4000000000
+$$
+![[Pasted image 20260504164934.png|400]]
+
+
+$G = h \cdot h$
+$$
+V=\frac{1}{3} \cdot G \cdot h
+$$
+$$
+9 = \frac{1}{3} \cdot h^3
+$$
+$$
+27 = h^3
+$$
+$$
+3 = h
+$$
+Er høyde og volum proporsjonale størrelser når pyramider har kvadratisk grunnfalte med sidelengder som er lik høyden? 
+
+Vi kan teste med h = 2 og h = 4
+
+$$
+V = \frac{1}{3} \cdot2^3 = \frac{1}{3} \cdot 8
+$$
+$$
+V = \frac{1}{3} \cdot4^3 = \frac{1}{3} \cdot 64
+$$
+Dermed er det ikke proporsjonale størrelser, Da vi forventer at volumet skal dobles om høyden dobbles. Det skjedde ikke her. 
+
