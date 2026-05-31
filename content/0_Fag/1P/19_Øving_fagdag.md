@@ -436,3 +436,179 @@ V = \frac{1}{3} \cdot4^3 = \frac{1}{3} \cdot 64
 $$
 Dermed er det ikke proporsjonale størrelser, Da vi forventer at volumet skal dobles om høyden dobbles. Det skjedde ikke her. 
 
+
+
+![[Pasted image 20260507170409.png|400]]
+
+Nora har 400/2=200kr timen 
+Nils har 1800/10 = 180kr timen 
+
+200x-180x=720
+20x = 720 
+2x = 72
+x = 36
+
+Hver av de jobbet 36 timer denne uken
+
+![[Pasted image 20260507171253.png]]
+
+![[Pasted image 20260507172237.png|500]]
+
+print: 1
+tall = 1+4 = 5
+differanse = 4+3 = 7
+
+print: 5
+tall = 5 + 7 = 12
+differanse = 7 + 3 = 10
+
+print: 12
+tall = 12+10 = 22
+differanse = 10 + 3 = 13
+
+print: 22
+tall = 22 + 13 = 35
+differanse = 13+3 = 16
+
+print: 35
+tall = 35+16 = 51
+differanse = 16+3
+
+print: 51
+
+
+STOPP
+
+
+
+![[Pasted image 20260518164336.png|400]]
+
+
+$$
+x \cdot 0.048 = 229963
+$$
+$$
+x = \frac{229963}{0.048}=47908896
+$$
+![[Pasted image 20260518164711.png|400]]
+
+$$
+pris = 4.18 \cdot 10.16 = 42.4688kr
+$$
+$$
+vekt = 0.454 \cdot 3 = 1.362kg 
+$$
+
+![[Pasted image 20260518165139.png|400]]
+
+$$
+1000 \cdot (1-0.23)(1+x)=1000
+$$
+$$
+770(1+x) = 1000
+$$
+$$
+770 + 770x = 1000
+$$
+$$
+770x = 230
+$$
+$$
+x  = \frac{230}{770}\approx29.9\%
+$$
+![[Pasted image 20260528170403.png|500]]
+
+$$
+10\% = 6
+$$
+48 sauer skal slaktes (6 * 8)
+
+![[Pasted image 20260528170534.png|500]]
+
+$$
+120m^2 = 120000dm^3 = 120000L
+$$
+$$
+\frac{120000L}{12}=10000L
+$$
+![[Pasted image 20260528170729.png|500]]
+
+250 * 8 = 2000
+
+![[Pasted image 20260528170844.png|500]]
+
+6000/10 = 600
+6000/20 = 300
+$$
+\frac{6000}{x}=100
+$$
+$$
+6000 = 100x
+$$
+$$
+60 = x
+$$
+![[Pasted image 20260528171210.png|500]]
+
+
+$$
+\sqrt{81} = 9
+$$
+$$
+10^2 = 100
+$$
+$$
+2 \cdot 2^4 = 32
+$$
+$$
+3^{-2} = \frac{1}{3^2}=\frac{1}{9}
+$$
+$$
+10^{-1} = \frac{1}{10}
+$$
+$$
+\frac{1}{2^3}=\frac{1}{8}
+$$
+$$
+\sqrt{10^6}=10^3 = 10000
+$$
+En vare koster 100kr 
+
+opp med 10 % = 110
+
+ned med 10 %  = 99
+
+Varen kosten nå mindre, fordi 10 prosent av et høyere tall er mer enn 10 prosent av et lavere tall. 
+![[Pasted image 20260528172020.png|500]]
+
+$$
+850000 \cdot (1-0.2) \cdot (1-0.06)^5
+$$
+![[Pasted image 20260528172251.png|500]]
+
+100cm
+50cm
+0.6cm
+$$
+100cm \cdot 50 cm \cdot 0.6cm = 60cm^2 \cdot 50cm = 300cm^3
+$$
+$$
+300cm^3 \cdot 8\frac{g}{cm^3}=2400g
+$$
+![[Pasted image 20260528172704.png|500]]
+a) 
+
+$$
+40b + a = 3200
+$$
+$$
+100b+a = 6200
+$$
+Trekker likning 1 fra likning 2 
+
+$$
+60b = 6200-3200
+$$
+$$
+60b = 3000
+$$

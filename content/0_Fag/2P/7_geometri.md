@@ -175,6 +175,26 @@ Må være høyere enn 2.5m
 ![[Eksamen del 2 2P.jpg]]
 
 
+
+Hva er radiusen til en sirkel med areal på $10m^2$
+
+
+$$
+A_{sirkel}=\pi r^2
+$$
+
+$$
+10 = \pi r^2 
+$$
+$$
+\frac{10}{\pi}=r^2
+$$
+
+$$
+\sqrt{\frac{10}{\pi}}=r
+$$
+
+
 ## formlikhet 2 
 ![[Pasted image 20260427170542.png|500]]
 
@@ -374,3 +394,198 @@ x^2-5x+4&<0 \\
 (x-4)(x-1)&<0
 \end{align*}
 $$
+
+
+Del 2
+![[Pasted image 20260511170609.png|400]]
+
+Vi leter etter eksakte punkt og finner: 
+A koster 220kr for 10hg --> 22kr per hg
+B koster 160kr for 20hg --> 8kr per hg
+
+Forskjellen er dermed 22kr-8kr = 14kr per hg
+
+![[Pasted image 20260511170853.png|400]]
+
+Avstanden som er 2a + 5a = 7a er 56 + 28 = 84
+
+Dermed er:
+ 7a/7 = 84/7
+ a = 12
+
+  2a = 24
+-28 + 24 = -4. 
+
+-4 skal stå i boksen
+
+![[Pasted image 20260511171337.png|400]]
+Her bruker vi veien om 1. 300/1.5= 200 vil tilsvare 1% 
+
+Da kan vi gange 200 med 4 for å finne 4%
+
+200kr x 4 = 800kr. 
+
+![[Pasted image 20260511171638.png|400]]
+
+| l/b | 1     | 2     | 3     | 4     |
+| --- | ----- | ----- | ----- | ----- |
+| 1   | **1** | **2** | **3** | **4** |
+| 2   | 2     | 4     | 6     | 8     |
+| 3   | 3     | 6     | 9     | 12    |
+| 4   | 4     | 8     | 12    | 16    |
+1 og 4 gir 4
+2 og 2 gir 4
+4 og 1 gir 4 
+
+Dermed er det enten C eller E 
+
+Om vi setter opp likningen: 
+
+$$
+A = xy
+$$
+Denne kan vi nå løse for y
+$$
+\frac{A}{x}=y
+$$
+
+Ettersom A er er konstant har vi laget en omvendt proporsjonal størrelse som passer figuren i E
+
+![[Pasted image 20260512171252.png|400]]
+
+$$
+\frac{x}{20}=\frac{5}{8}
+$$
+$$
+x = \frac{100}{8}=\frac{50}{4}=\frac{25}{2}=12.5cm
+$$
+$$
+A_{hele}=A_{liten}+A_{stor}
+$$
+$$
+A_{hele}=\frac{8cm \cdot 5cm}{2}+\frac{20cm \cdot 12.5cm}{2}=
+$$
+![[Pasted image 20260512172224.png|400]]
+
+2021 ganget med (1+2.5) skal bli 15 millioner 
+
+
+$$
+x \cdot (1+2.5)=15
+$$
+$$
+x = \frac{15}{3.5}\approx4.3millioner
+$$
+Eksempel med andre tall for å se det enklere 
+
+Noe skal øke med 50%
+
+for eksempel tallet 10 
+
+Vi finner vekstfaktoren 1+0.5=1.5
+
+$$
+10 \cdot 1.5 = 15
+$$
+$$
+10 \cdot (1+0.5)=10 \cdot 1 + 10 \cdot 0.5 = 10 +5 = 15
+$$
+
+
+
+![[Pasted image 20260518170508.png|500]]
+
+
+![[Pasted image 20260518170635.png|500]]
+
+While x <= 4: 
+s = 0
+x = 0 
+s = 0  + 200 
+x = 0 + 1
+
+
+s = 200
+x = 1
+s = 200 + 200 * 0.975
+x = 1+1
+
+
+
+s = 395
+x = 2
+s = 395 + 200 * 0.975^2 
+
+![[Pasted image 20260519170752.png]]
+
+$$
+2x+24-y = 2x^2
+$$
+$$
+-y = 2x^2-2x-24
+$$
+$$
+y = -2x^2+2x+24
+$$
+
+![[Pasted image 20260519171154.png]]
+
+$$
+y = 2x+8
+$$
+
+$$
+y = x^2+x-48
+$$
+
+![[Pasted image 20260526170133.png|400]]
+
+Rett prisme --> grunnflate ganget med høyde 
+
+$$
+G = \frac{gh}{2}=\frac{16 \cdot 6}{2}=48cm^2
+$$
+$$
+V = Gh = 48cm^2 \cdot 12cm = 576cm^3
+$$
+$$
+A_{O}=2A_{ABF}+A_{ABCD}+2A_{BCGF}
+$$
+
+$$
+A_{O}=2 \cdot 48cm^2+12cm \cdot 16cm+2A_{BCGF}
+$$
+bruker pytagoras for å finne BF
+
+$$
+EF^2+EB^2 = BF^2
+$$
+$$
+6^2+8^2=BF^2
+$$
+$$
+36+64=BF^2
+$$
+$$
+100 = BF^2
+$$
+$$
+10 = BF
+$$
+$$
+A_{O}=2 \cdot 48cm^2+12cm \cdot 16cm+240cm^2
+$$
+![[Pasted image 20260526172237.png|500]]
+
+![[Pasted image 20260526172755.png|400]]
+
+Trekantene er formlike fordi:
+vinkel CAB = vinkel ADB (90 grader)
+vinkel ACB = vinkel ACD (delt vinkel)
+Dermed er også vinkel ABC lik vinkel CAD (ukjent vinkel)
+
+vinkelsummen er 180 grader
+
+vi vet derfor at:
+vinkel CAB + vinkel ACB + vinkel ABC = 180
+
