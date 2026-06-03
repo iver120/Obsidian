@@ -454,3 +454,165 @@ $$
 
 
 ![[Pasted image 20260527160327.png|400]]
+
+
+![[Pasted image 20260603160627.png|400]]
+
+Plan: 
+Identifisere figurer:
+Halvsirkel
+Rettvinklet trekant 
+
+Mangler vi noe? 
+mangler høyde i trekant og radius i sirkel 
+$$
+r = \frac{h}{2}
+$$
+$$
+katet^2 + katet ^2 = hypotenus^2
+$$
+$$
+8^2+h^2 = 10^2
+$$
+$$
+h^2 = 10^2-8^2
+$$
+$$
+h^2 = 100-64
+$$
+$$
+h^2 = 36
+$$
+$$
+h = 6
+$$
+$$
+r = \frac{6}{2}=3
+$$
+$$
+A_{trekant}=\frac{gh}{2}=\frac{8 \cdot 6}{2}=24
+$$
+$$
+A_{halvsirkel}=\frac{\pi r^2}{2}=\frac{3.14 \cdot 3^2}{2}=14.13
+$$
+Hele det grønne området har da areal: 
+
+$$
+A_{grønn} = 24+14.13=28.13
+$$
+![[Pasted image 20260603162004.png|400]]
+Hvilke figurer har vi? 
+kvadrat
+
+er det noe vi mangler? 
+Sidelengden til det store blå kvadratet mangler
+
+Hvordan kan vi finne den? 
+Vi har 3 kvadrater hvor sidelengdene til sammen utgjør høyden i det store blå
+
+$$
+s^2 = 36
+$$
+$$
+s = 6
+$$
+$$
+s^2 = 9
+$$
+$$
+s = 3
+$$
+$$
+s^2 = 4
+$$
+$$
+s = 2
+$$
+Siden til det store kvadratet er dermed: 
+$$
+s=2+3+6 = 11
+$$
+Og arealet er: 
+$$
+A_{kvadrat}=s^2 = 11^2 = 121
+$$
+
+![[Pasted image 20260603163010.png|400]]
+Figur øverst til høyre og figur nederst til venstre danner til sammen ett helt blått kvadrat. Vi kan dermed regne arealene av de nå 3 like kvadratene. 
+
+$$
+A_{blå}=3 \cdot4^2 = 3 \cdot 16 = 48
+$$
+
+
+
+Vi prøver å finne det blå arealet i figuren nederst til venstre. 
+figur: kvadrat og kvartsirkel
+$$
+A_{blå}=A_{kvadrat}-A_{kvartsirkel}
+$$
+$$
+A_{kvadrat} = 16
+$$
+$$
+A_{kvartsirkel} = \frac{\pi r^2}{4}=\frac{3.14 \cdot 4^2}{4}=12.56
+$$
+$$
+A_{blå}=16-12.56 = 3.44
+$$
+![[Pasted image 20260603164230.png|400]]
+a) finn sidelengde
+$$
+s^2+s^2 = 20^2
+$$
+$$
+2s^2 = 400
+$$
+$$
+\frac{2s^2}{2} = \frac{400}{2}
+$$
+$$
+s^2 = 200
+$$
+$$
+\sqrt{s^2}=\sqrt{200}
+$$
+$$
+s = 14.14
+$$
+Omkrets: 
+$$
+O = 4 \cdot 14.14 = 56.56cm
+$$
+Areal: 
+$$
+A= s^2 = 200cm^2
+$$
+
+![[Pasted image 20260603165026.png|600]]
+a)
+$$
+8^2+8^2=g^2
+$$
+$$
+128 = g^2 
+$$
+$$
+11.31cm = g
+$$
+Hvilke figurer har vi? 
+Sirkel
+trekant/likebeint 
+
+liten trekant høyde: $\frac{11.31}{2}=5.655cm$
+
+Vi vet at vi lett kan finne arealet til både stor trekant og den lille. 
+Høyden som går fra toppen av den lille og til enden på sirkelbuen må også være 8cm da det er radiusen. 
+
+Høyden totalt i trekanten inne i sirkelen er da 8cm + 5.655cm. 
+Grunnlinjen er 11.31cm
+radiusen til sirkelen er også 8cm 
+
+Det eneste vi mangler nå er å trekke det hvite fra hele sirkelen med radius 8.  og finne ut arealet av den buede delen som ikke er en del av trekanten. 
+
+
