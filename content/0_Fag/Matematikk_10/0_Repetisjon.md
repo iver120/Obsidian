@@ -75,10 +75,63 @@ $$
 6a^2+15a = 2 \cdot 3 \cdot a \cdot a + 3 \cdot 5 \cdot a = 3\cdot a(2 \cdot a+5)=3a(2a+5)
 $$
 
+### Repetisjon 
+#### Faktoriser tallene til primtall 
+15 = 3x5
+20 = 4x5 = 2x2x5
+35 = 5x7
 
+#### Faktoriser uttrykkene
+16a = $2 \cdot 2 \cdot 2 \cdot 2 \cdot a$
+$18ab^2$ = $3 \cdot 3 \cdot 2 \cdot a \cdot b \cdot b$
+$2x+4$  = 2(x+2) 
+$15x^2-5x$ = $3 \cdot 5 \cdot x \cdot x - 5 \cdot x$ = $5x(3 \cdot x - 1)=5x(3x-1)$
+$$
+5x(3x+?)=(15x^2-5x)
+$$
+$$
+15x^2-10x=5 \cdot 3 \cdot x  \cdot x - 2 \cdot 5 \cdot x = 5x(3x-2)
+$$
+## Forenkling av uttrykk 
+Her er målet å stryke faktorer som finnes både i teller og nevner i en brøk. 
 
+$$
+\frac{5x}{2x}=\frac{5}{2}
+$$
+$$
+\frac{5x}{x}=\frac{5}{1}
+$$
+$$
+\frac{15ab^2}{3ab}=\frac{3 \cdot 5 \cdot a \cdot b \cdot b }{3 \cdot a \cdot b} =\frac{5b}{1}= 5b
+$$
+$$
+\frac{3ab}{15ab^2}=\frac{1}{5b}
+$$
 
+$$
+\frac{25}{5}=\frac{5 \cdot 5}{5 \cdot 1}=\frac{5}{1}=5
+$$
+$$
+\frac{5}{25}=\frac{5 \cdot 1}{5 \cdot 5}=\frac{1}{5}
+$$
 
+$$
+\frac{50a}{3a^2b} = \frac{2 \cdot 5 \cdot 5 \cdot a}{3 \cdot a \cdot a \cdot b}=\frac{2 \cdot 5 \cdot 5}{3 \cdot a \cdot b}=\frac{50}{3ab} 
+$$
+
+$$
+\frac{25a}{50a^2b} =\frac{5 \cdot 5 \cdot a }{2 \cdot 5 \cdot 5 \cdot a \cdot a \cdot b} = \frac{1}{2ab} 
+$$
+$$
+\frac{3x+6}{12x+3}=\frac{3 \cdot x + 2 \cdot 3}{2 \cdot 2 \cdot 3 \cdot x+3}=\frac{3(x+2)}{3(4x+1)}=\frac{x+2}{4x+1}
+$$
+
+$$
+\frac{4x+6}{6x+8}=\frac{2 \cdot 2 \cdot x + 2 \cdot 3}{3 \cdot 2 \cdot x + 2 \cdot 2 \cdot 2}=\frac{2(2x+3)}{2(3x+4)}=\frac{2x+3}{3x+4}
+$$
+$$
+\frac{2x+4}{3x+6}=\frac{2 \cdot x + 2 \cdot 2}{3 \cdot x + 2 \cdot 3} =\frac{2(x+2)}{3(x+2)}=\frac{2}{3}
+$$
 # Regnerekkefølge
 ## PEMDAS
 **Vi regner alltid fra venstre til høyre 
