@@ -10,3 +10,16 @@
 # Spredningsmål
 - Variasjonsbredde
 	- Det største tallet i datasettet minus det minste 
+![[Pasted image 20261012164154.png|500]]
+
+![[Pasted image 20261012165851.png]]
+
+Hva er størrelsen på vinkelene i en 6-kant? 
+
+$$
+(6-2)\cdot 180 = 720
+$$
+
+$$
+\frac{720}{6}=\frac{360}{3}=120
+$$

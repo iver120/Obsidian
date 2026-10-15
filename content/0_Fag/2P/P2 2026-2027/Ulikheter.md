@@ -121,10 +121,18 @@ $$
 
 
 
+![[Pasted image 20261005160436.png]]
 
+$$
+(x-6)(x+2)<0
+$$
+$$
+x^2+2x-6x-12=x^2-4x-12
+$$
 
+1. faktoriser 
+2. løse hver av parentesene for 0
+3. tolke enten ved graf, tegning eller logikk. 
 
-
-
-
+![[Pasted image 20261005162011.png]]
 
