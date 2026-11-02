@@ -223,3 +223,103 @@ $$
 $$
 F_3 = 2(3)^2-3
 $$
+# Repetisjon 
+
+Vi har tallrekkene: 
+
+1, 4, 9, 16, ....
+
+
+2, 8, 18, 32, ...
+
+| 2   | 8   | 18  | 32  |
+| --- | --- | --- | --- |
+|     | 6   | 10  | 14  |
+|     |     | 4   | 4   |
+
+
+
+Hva er formelene for rekkene og hva er det neste tallet? 
+
+Første rekke øker med 3, 5, 7.. osv 
+Om økningens øker med et fast tall er det noe med $n^2$
+
+$$
+T_n = n^2
+$$
+$$
+T_1 = 1^2 = 1 \cdot 1  = 1
+$$
+$$
+T_2 = 2^2 = 2 \cdot 2  = 4
+$$
+Neste i rekken er: 
+$$
+T_5 = 5^2 = 5 \cdot 5 =25
+$$
+Dette er kvadrattallene. 
+
+| 2   | 8   | 18  | 32  |
+| --- | --- | --- | --- |
+|     | 6   | 10  | 14  |
+|     |     | 4   | 4   |
+Fast økning på økning. Dette har noe med $n^2$ å gjøre. 
+
+$$
+T_n = 2n^2 
+$$
+$$
+T_1 = 2 \cdot 1^2 = 2
+$$
+$$
+T_3 = 2 \cdot 3^2 =18
+$$
+$$
+T_5 = 2 \cdot 5^2 = 50
+$$
+Du har tallrekken 5, 7, 9, 11 
+
+Hva er n-te formelen for denne rekken? 
+
+$$
+T_n = 2n+3
+$$
+Ny rekke: 20, 32, 44, 56, ... 
+
+Finn formel:
+Økningen er 12 
+
+$$
+T_n = 12n+8
+$$
+Uansett om du får tall eller figurer skal du alltid finn økningen som er stabil. Finner du den umiddelbart er det noe med $n$ finner du på linje 3  er det $n^2$ osv
+
+
+3, 24, 81, 192, 375
+
+
+| 3   | 24  | 81  | 192 | 375 |
+| --- | --- | --- | --- | --- |
+|     | 21  | 57  | 111 | 183 |
+|     |     | 36  | 54  | 72  |
+|     |     |     | 18  | 18  |
+
+
+$$
+F_n = 3n^3
+$$
+$$
+F_1 = 3 \cdot 1^3 = 3
+$$
+$$
+F_2 = 3 \cdot 2^3 = 24
+$$
+
+![[Pasted image 20261015165741.png]]
+
+$$
+F_n = 2n+n^2+2n(n+1)
+$$
+$$
+F_n = 2n+n^2+2n^2+2n = 3n^2+4n
+$$

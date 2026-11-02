@@ -122,3 +122,84 @@ Finn vinkelsummen
 $$
 (12-2) \cdot 180 = 1800
 $$
+# Sirkel 
+En geometrisk figur hvor alle veier fra midten til sirkelbuen er like lange. Denne avstanden fra midten og ut kaller vi for radius. Om vi skal måle den aller lengste veien over sirkelen kaller vi det for diameter. 
+
+Diameter er dobbelt så stor som radius. 
+
+$$
+O = 2\pi r = \pi d
+$$
+$$
+A = \pi r^2 
+$$
+
+
+En sirkel har diameter på 20cm. Hva er arealet til denne sirkelen? 
+$$
+A = 3.14 \cdot 10 \cdot 10 = 314cm^2
+$$
+
+En annen sirkel har en radius på 50cm. Hva blir omkretsen til denne sirkelen? 
+
+$$
+O = 2 \cdot 3.14 \cdot 50 = 3.14 \cdot 100 = 314cm
+$$
+Du har en sirkel med diameter på 200m. Hva er arealet? 
+
+$$
+A = 3.14 \cdot 100m \cdot 100m = 314m \cdot 100m = 31400m^2
+$$
+
+En sirkel har radius på 100mm. Hva er omkretsen ? 
+
+$$
+O = 3.14 \cdot 200mm = 628mm
+$$
+Finn arealet av en sirkel med diameter på 40cm sektor på 72 grader 
+
+$$
+A = 3.14 \cdot 20 \cdot 20 = 3.14 \cdot 400 =314 \cdot 4 =628 \cdot 2  = 1256cm^2
+$$
+
+$$
+1256 \cdot \frac{72}{360}
+$$
+## Enheter
+
+### Lengdeenheter
+
+| mm^1 | cm^1 | dm^1 | m^1  |     |
+| ---- | ---- | ---- | ---- | --- |
+| 1000 | 100  | 10   | 1    |     |
+| 10   | 1    | 0,1  | 0,01 |     |
+| 200  | 20   | 2    | 0,2  |     |
+| 3000 | 300  | 30   | 3    |     |
+|      |      |      |      |     |
+### Arealenheter
+$m^2$, $dm^2$  osv.. 
+
+| mm^2      | cm^2   | dm^2 | m^2    |
+| --------- | ------ | ---- | ------ |
+| 1 000 000 | 10 000 | 100  | 1      |
+| 600       | 6      | 0,06 | 0,0006 |
+| 4600      | 46     | 0,46 | 0,0046 |
+
+![[Pasted image 20261026170013.png|400]]
+
+Regn ut omkrets og areal av denne trapesen oppgi svaret i m og $m^2$
+
+$$
+A_{trapes}=\frac{(a+b) \cdot h }{2}
+$$
+a og b er de to linjene som går parallelt med hverandre. 
+
+a = 10cm 
+b = 4cm 
+$$
+A = \frac{(10cm+4cm) \cdot 4cm}{2}=\frac{14cm \cdot 4cm}{2}=28cm^2
+$$
+$$
+28cm^2 = 0.28dm^2 = 0.0028m^2
+$$
+Trapes flere oppgaver

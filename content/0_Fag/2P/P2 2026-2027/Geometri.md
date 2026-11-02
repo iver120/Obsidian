@@ -131,3 +131,273 @@ $$
 $$![[Pasted image 20261012162500.png|500]]
 
 ![[Pasted image 20261012162841.png]]
+
+# Litt repetisjon 
+
+Hva er volum? 
+
+Hvor mye det er av noe
+
+Hvilken enheter bruker vi for å måle volum? 
+L, $cm^3$ 
+
+Hvordan kan vi gjøre om fra $cm^3$ til liter?
+
+Vi må først gjøre om til $dm^3$ 
+
+Eksempel: 
+Vi har en kube med sidelengder på 10cm
+
+Da får vi volumet som dette: 
+$$
+V = 10cm \cdot 10cm \cdot 10cm = 1000cm^3
+$$
+10cm  = 1dm 
+
+Om vi nå skal regne volum i dm får vi dette: 
+
+$$
+V = 1dm \cdot 1dm \cdot 1dm = 1dm^3 = 1L
+$$
+## Oppgaver: 
+Vi har en silo med en grunnflate på $16m^2$ og en høyde på 10m. Hvor mange liter kron rommer siloen om den er helt full? 
+
+Siloen har for som en sylinder. 
+$$
+V_{sylinder} = G \cdot h
+$$
+Eller
+$$
+V_{sylinder} = \pi r^2 \cdot h
+$$
+
+
+$$
+V = 16m^2 \cdot 10m = \underline{160m^3}
+$$
+Dermed er det plass til: 
+
+
+| mm^3          | cm^3      | dm^3    | m^3 |
+| ------------- | --------- | ------- | --- |
+| 1 000 000 000 | 1 000 000 | 1 000   | 1   |
+|               |           | 160 000 | 160 |
+|               |           |         |     |
+
+En kjegle har en høyde på 50cm og en diameter på 30cm. Hvor mye vann kan fylles i denne kjeglen målt i liter? 
+
+$$
+V_{kjegle} = \frac{\pi r^2 \cdot h}{3}
+$$
+h = 50cm 
+r = 15cm 
+
+
+$$
+V_{kjegle} = \frac{3.14 \cdot 15^2 \cdot 50}{3} = 11775cm^3=11.775dm^3 = 11.775L
+$$
+
+En annen kjegle har samme høyde men rommer 15 liter. Hva er radiusen til denne kjeglen? 
+
+$$
+15dm^3 = \frac{3.14 \cdot r^2 \cdot 5dm}{3}
+$$
+$$
+45dm^3 = 3.14 \cdot r^2 \cdot 5dm
+$$
+$$
+\frac{9dm^2}{3.14} = r^2
+$$
+$$
+1.69dm = r
+$$
+Hvor mange liter vann kan man få inn i en standard 5-er fotball? 
+
+Omkretsen på en slik ball er ca 70cm. 
+
+$$
+O_{sirkel} = \pi \cdot d
+$$
+$$
+70 = 3.14 \cdot d 
+$$
+Finner diameter. deler på 2 for å finne radius. Jobber videre for å finne volum av ballen. 
+
+r = 11.15
+
+$$
+V_{kule}=\frac{4 \pi r^3}{3}
+$$
+![[Pasted image 20261022170905.png|400]]
+$$
+V = 2.1 \cdot 6.2m \cdot 1.3m+ \frac{(\pi\frac{2.1m}{2})^2 \cdot 6.2m}{2}
+$$
+
+
+![[Pasted image 20261022171558.png|400]]
+
+$$
+V = V_{bunn}+V_{topp}
+$$
+Vi må først finne grunnflaten til sideveggen 
+
+$$
+A_{sidevegg} = \frac{1.8m \cdot 6.3m}{2}
+$$
+$$
+V_{topp} = \frac{1.8m \cdot 6.3m}{2} \cdot 12.5m
+$$
+![[Pasted image 20261022172500.png]]
+
+$$
+\frac{x}{4}=\frac{6}{12}
+$$
+$$
+x = \frac{24}{12}=2
+$$
+
+![[Pasted image 20261022172722.png|400]]
+$$
+\frac{x+5}{40}=\frac{5}{10}
+$$
+$$
+x+5 = \frac{5 \cdot 40}{10}
+$$
+$$
+x = 20-5
+$$
+$$
+x = 15
+$$
+![[Pasted image 20261022173253.png|400]]
+$$
+\frac{x}{250}=\frac{95}{120}
+$$
+$$
+x = \frac{95 \cdot 25}{12}
+$$ ![[Pasted image 20261026160504.png|400]]
+
+$$
+A_{trekant}=\frac{3 \cdot 1}{2}
+$$
+$$
+A_{halvsirkel}=\frac{\pi 1^2}{2}
+$$
+Alt i formlene er likt, men $\pi$ er  > 3, dermed må halvsirkelen ha større areal enn trekanten. 
+
+$$
+O_{halvsirkel} = \frac{2 \cdot \pi}{2}+2=\pi + 2 \approx 5.14
+$$
+$$
+O_{trekant} = 
+$$
+Må finne hypotenus
+$$
+1.5^2+1^2=h^2
+$$
+$$
+2.25+1=h^2
+$$
+$$
+\sqrt{3.25} = h
+$$
+$$
+O_{trekant} = 1+1+2\sqrt{3.25}
+$$
+Siden $\sqrt{3.25}>1.8$ men vi fortsatt for en større omkrets for trekanten ved å runde av til 1.8, må trekanten ha større omkrets enn halvsirkelen. 
+
+$$
+1+1+2 \cdot 1.8 > 5.14
+$$
+![[Pasted image 20261026162024.png|400]]
+
+a) Ettersom vinkel D og vinkel B er 90 grader og at begge trekantene deler vinkel A må også den siste vinkelen i begge trekantene være det samme for at vinkelsummen skal bli 180 grader. 
+
+$$
+\frac{x}{40} = \frac{5}{10}
+$$
+$$
+AB = 20
+$$
+20-5 = 15 = BD
+
+## Repetisjon 
+![[Pasted image 20261026162818.png|400]]
+
+$$
+4x+2(x+7)=44
+$$
+$$
+4x+2x+14=44
+$$
+$$
+6x=30
+$$
+$$
+x = 5
+$$
+x = liten 
+stor = 5 + 7 = 12
+
+![[Pasted image 20261029171130.png|500]]
+
+figur 1 fra venstre
+$$
+\frac{6 \cdot 4 }{2}=12
+$$
+figur 2 
+$$
+\frac{2 \cdot 4}{2} = 4
+$$
+figur 3
+addere to trekanter eller trapes formel 
+$$
+\frac{(a+b)h}{2} = \frac{(6+9)4}{2}=30
+$$
+$$
+2^2 \cdot \pi \frac{3}{4}=3 \cdot \pi = 
+$$
+
+
+
+
+6% er 2 prosentpoeng større enn 4%
+
+Men for å finne forskjellen i prosent (altså hvor mange prosent større 6 er enn 4) må vi gjøre slik: 
+
+$$
+\frac{6\%-4\%}{4\%}=\frac{2\%}{4\%}=0.5=50\%
+$$
+
+
+![[Pasted image 20261029172923.png]]
+
+$$
+\frac{gh}{2}=64cm^2
+$$
+Siden den ene kateten er dobbelt så lang som den andre kan vi sette opp denne likningen for sammenhengen mellom g og h 
+
+$$
+2g = h
+$$
+Dermed kan vi løse for g ved å substituere h med 2g med 
+
+$$
+\frac{g \cdot 2g}{2}=64cm^2
+$$
+$$
+2g^2 = 128cm^2
+$$
+$$
+g^2 = 64cm^2
+$$
+$$
+g = 8cm
+$$
+Da er h = 2g = 2 x 8 = 16
+
+For å sjekke svaret kan vi 
+
+$$
+\frac{8cm \cdot 16cm}{2}=64cm^2
+$$
