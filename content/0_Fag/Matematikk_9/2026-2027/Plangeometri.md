@@ -4,7 +4,7 @@ Handler om å beskrive utviklingen av tallrekker og geometriske mønster.
 
 ![[Pasted image 20260921165146.png]]
 
-Her betyr $F_1$ figur nummer 1, $F_2$ figur nummer 2 osv.
+Her betyr F₁ figur nummer 1, F₂ figur nummer 2 osv.
 
 $$ F_1 = 2 = 1 \cdot 2 = 1(1+1) $$ $$ F_2 = 6 = 2 \cdot 3 = 2(2+1) $$ $$ F_3 = 12 = 3 \cdot 4 = 3(3+1) $$
 
@@ -16,52 +16,51 @@ $$ F_{101} = 101(101+1) = 101 \cdot 102 = 10,302 $$
 
 ![[Pasted image 20260921170017.png|400]]
 
-a) $F_4 = 13$
+a)
+
+$$ F_4 = 13 $$
 
 c) Øker med 4.
 
-d) Hva er $F_n$-formelen for dette mønsteret?
+d) Hva er Fₙ-formelen for dette mønsteret?
 
 $$ F_1 = 1 = 4 \cdot 1 - 3 $$ $$ F_2 = 5 = 4 \cdot 2 - 3 $$ $$ F_3 = 9 = 4 \cdot 3 - 3 $$
 
-$$ 
-F_n = 4n - 3 
-$$
+$$ F_n = 4n - 3 $$
 
 ![[Pasted image 20260921170608.png|400]]
 
 Økningen er +2.
 
-Finn $F_n$-formelen for figuren:
+Finn Fₙ-formelen for figuren:
 
-$$ 
-F_n = 2n + 4 
-$$
+$$ F_n = 2n + 4 $$
 
 ![[Pasted image 20260921170956.png|400]]
 
 a) +2
 
-c) 
-$$
-F_n = 2n
-$$
+c)
+
+$$ F_n = 2n $$
 
 # Ulike polygoner = ulike mangekanter
 
 ![[Pasted image 20261005163847.png]]
 
-Vinkel $v$ + vinkel $u$ er alltid $180^\circ$ når de står på samme linje. Dette kalles for **nabovinkler**.
+Vinkel v + vinkel u er alltid 180° når de står på samme linje. Dette kalles for **nabovinkler**.
 
 ![[Pasted image 20261005164053.png]]
 
-Dette kalles for **toppvinkler**: $x = v$ og $w = u$.
+Dette kalles for **toppvinkler**:
 
-Om for eksempel $x = 30^\circ$, hva blir da $v$, $w$ og $u$?
+$$ x = v \quad \text{og} \quad w = u $$
 
-Vi vet da at $x = v = 30^\circ$.
+Om for eksempel x = 30°, hva blir da v, w og u?
 
-$$ 2w = 360^\circ - 30^\circ - 30^\circ = 300^\circ $$ $$ w = 150^\circ = u $$
+Vi vet da at:
+
+$$ x = v = 30^\circ $$ $$ 2w = 360^\circ - 30^\circ - 30^\circ = 300^\circ $$ $$ w = 150^\circ = u $$
 
 Eller med nabovinkler:
 
@@ -85,18 +84,25 @@ $$ (17 - 2) \cdot 180^\circ = 15 \cdot 180^\circ = 2700^\circ $$
 
 ![[Pasted image 20261005165212.png]]
 
-1. Finn vinkelsummen: $(5 - 2) \cdot 180^\circ = 540^\circ$
-2. Ta vinkelsummen minus alle de andre vinklene: $540^\circ - 105^\circ - 90^\circ - 155^\circ - 86^\circ = 104^\circ$
+**Steg 1:** Finn vinkelsummen.
+
+$$ (5 - 2) \cdot 180^\circ = 540^\circ $$
+
+**Steg 2:** Ta vinkelsummen minus alle de andre vinklene.
+
+$$ 540^\circ - 105^\circ - 90^\circ - 155^\circ - 86^\circ = 104^\circ $$
 
 ![[Pasted image 20261005165924.png]]
 
-Vinkelsum i en 5-kant: $540^\circ$
+Vinkelsum i en 5-kant: 540°
 
-$540^\circ - 90^\circ = 450^\circ$. Dette er resten av vinkelsummen etter at vi har tatt bort de to vinklene som er $90^\circ$ til sammen.
+$$ 540^\circ - 90^\circ = 450^\circ $$
+
+Dette er resten av vinkelsummen etter at vi har tatt bort de to vinklene som er 90° til sammen.
 
 5 vinkler − 2 vinkler = 3 vinkler
 
-$450^\circ / 3 = 150^\circ$
+$$ 450^\circ / 3 = 150^\circ $$
 
 Finn vinkelsummen:
 
@@ -128,7 +134,7 @@ En sirkel har radius på 100 mm. Hva er omkretsen?
 
 $$ O \approx 3.14 \cdot 200 \text{ mm} = 628 \text{ mm} $$
 
-Finn arealet av en sirkelsektor med diameter på 40 cm og sentralvinkel på $72^\circ$.
+Finn arealet av en sirkelsektor med diameter på 40 cm og sentralvinkel på 72°.
 
 Først arealet av hele sirkelen:
 
@@ -165,11 +171,11 @@ Regn ut omkrets og areal av dette trapeset. Oppgi svaret i m og m².
 
 $$ A_{\text{trapes}} = \frac{(a + b) \cdot h}{2} $$
 
-$a$ og $b$ er de to linjene som går parallelt med hverandre.
+a og b er de to linjene som går parallelt med hverandre.
 
-- $a = 10$ cm
-- $b = 4$ cm
-- $h = 4$ cm
+- a = 10 cm
+- b = 4 cm
+- h = 4 cm
 
 $$ A = \frac{(10 \text{ cm} + 4 \text{ cm}) \cdot 4 \text{ cm}}{2} = \frac{14 \text{ cm} \cdot 4 \text{ cm}}{2} = 28 \text{ cm}^2 $$ $$ 28 \text{ cm}^2 = 0.28 \text{ dm}^2 = 0.0028 \text{ m}^2 $$
 
@@ -185,7 +191,7 @@ a)
 
 $$ x^2 + 4^2 = 5^2 $$ $$ x^2 + 16 = 25 $$ $$ x^2 = 25 - 16 $$ $$ x^2 = 9 $$
 
-For å finne $x$ må vi ta kvadratroten på begge sider:
+For å finne x må vi ta kvadratroten på begge sider:
 
 $$ \sqrt{x^2} = \sqrt{9} $$ $$ x = 3 $$
 
@@ -207,23 +213,23 @@ Hva er den korteste kateten om den lengste kateten er 10 cm?
 
 $$ x^2 + 10^2 = (2x)^2 $$ $$ x^2 + 100 = 4x^2 $$ $$ 100 = 4x^2 - x^2 $$ $$ 100 = 3x^2 $$
 
-Når vi havner i en slik situasjon, må vi alltid dele først. Begge sider deles på tallet som står foran $x^2$.
+Når vi havner i en slik situasjon, må vi alltid dele først. Begge sider deles på tallet som står foran x².
 
 $$ \frac{100}{3} = \frac{3x^2}{3} $$ $$ 33.3 \approx x^2 $$ $$ \sqrt{33.3} \approx \sqrt{x^2} $$ $$ 5.8 \text{ cm} \approx x $$
 
 ![[Pasted image 20261109164144.png]]
 
-Vi kaller punktet vi treffer her for $P$.
+Vi kaller punktet vi treffer her for P.
 
-Først må vi finne $AB$:
+Først må vi finne AB:
 
 $$ 6^2 + 6^2 = x^2 $$ $$ 72 = x^2 $$ $$ x = \sqrt{72} \approx 8.5 \text{ cm} $$
 
-$AP \approx 8.5 / 2 = 4.25$ cm
+$$ AP \approx 8.5 \text{ cm} / 2 = 4.25 \text{ cm} $$
 
-Dette er også avstanden mellom $C$ og $P$, fordi vi delte $90^\circ$ i to og fikk $45^\circ$.
+Dette er også avstanden mellom C og P, fordi vi delte 90° i to og fikk 45°.
 
-$AP = CP \approx 4.25$ cm
+$$ AP = CP \approx 4.25 \text{ cm} $$
 
 ![[Pasted image 20261109164858.png|400]]
 
@@ -241,4 +247,4 @@ $$ 1.5^2 + 1.5^2 = h^2 $$ $$ 2.25 + 2.25 = h^2 $$ $$ 4.5 = h^2 $$ $$ \sqrt{4.5} 
 
 $$ BC = 2 \cdot AB = 2 \cdot 4.2 \text{ cm} = 8.4 \text{ cm} $$
 
-I en trekant med vinklene $30^\circ$, $60^\circ$ og $90^\circ$ er den korteste kateten alltid halvparten så lang som hypotenusen.
+I en trekant med vinklene 30°, 60° og 90° er den korteste kateten alltid halvparten så lang som hypotenusen.
