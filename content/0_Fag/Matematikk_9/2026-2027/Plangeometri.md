@@ -203,3 +203,168 @@ $$
 28cm^2 = 0.28dm^2 = 0.0028m^2
 $$
 Trapes flere oppgaver
+
+
+# Pytagoras 
+## Finne katet 
+![[Pasted image 20261102163925.png|500]]
+
+a) 
+$$
+x^2+4^2=5^2
+$$
+$$
+x^2 + 16 = 25
+$$
+$$
+x^2  = 25-16
+$$
+$$
+x^2 = 9
+$$
+For å finne x må vi ta kvadratroten på begge sider 
+$$
+\sqrt{x^2}=\sqrt{9}
+$$
+$$
+x = 3
+$$
+Den ukjente kateten er 3
+
+$$
+x^2 + 15^2 = 17^2
+$$
+$$
+x^2 + 225 = 289
+$$
+$$
+x^2 = 289-225
+$$
+$$
+x^2 = 64
+$$
+$$
+\sqrt{x^2}=\sqrt{64}=8
+$$
+![[Pasted image 20261102164903.png|400]]
+
+$$
+x^2+5^2=9^2
+$$
+$$
+x^2 + 25 = 81
+$$
+$$
+x^2 = 81-25
+$$
+$$
+x^2 = 56
+$$
+$$
+\sqrt{x^2} = \sqrt{56}\approx7.5m
+$$
+
+![[Pasted image 20261102165521.png|400]]
+
+$$
+x^2+9^2 = 12^2
+$$
+$$
+x^2 + 81 = 144 
+$$
+$$
+x^2 = 63
+$$
+$$
+\sqrt{x^2} = \sqrt{63} \approx 7.9
+$$
+
+![[Pasted image 20261102170149.png]]
+
+
+Hva er den korteste kateten om den lengste kateten er 10cm 
+
+$$
+x^2 + 10^2 = (2x)^2
+$$
+$$
+x^2 +100 = 4x^2
+$$
+$$
+100 = 4x^2-x^2
+$$
+$$
+100 = 3x^2
+$$
+Når vi havner i en slik situasjon må vi alltid dele først. Begge sider deles på tallet som står til venstre for x.
+
+$$
+\frac{100}{3} = \frac{3x^2}{3}
+$$
+$$
+33.3 = x^2
+$$
+$$
+\sqrt{33.3}= \sqrt{x}
+$$
+$$
+ 5.8  \approx x
+$$
+![[Pasted image 20261109164144.png]]
+
+Om vi sier at punktet vi treffer her P
+
+
+Først må vi finne AB
+
+$$
+6^2 + 6^2 = x^2
+$$
+$$
+72 = x^2
+$$
+$$
+8.5 = x 
+$$
+AP = 8.5/2 = 4.25cm
+
+
+Dette er også avstanden mellom C og P fordi vi delte 90 grader i to og fikk 45. 
+
+AP = CP = 4.25. 
+
+
+![[Pasted image 20261109164858.png|400]]
+
+$$
+A_{kvadrat} = s^2
+$$
+Siden vi vet arealet, men ikke sidelengden kan vi bruke arealet sammen med formelen for å finne siden. 
+
+
+$$
+2.25 = s^2
+$$
+$$
+\sqrt{2.25}=\sqrt{s^2}
+$$
+$$
+1.5cm = s
+$$
+![[Pasted image 20261109165632.png|400]]
+
+$$
+1.5^2 + 1.5^2 = h^2 
+$$
+$$
+2.25+2.25 = h^2
+$$
+$$
+4.5 = h^2 
+$$
+$$
+\sqrt{4.5} = \sqrt{h^2}
+$$
+$$
+2.12m = h
+$$

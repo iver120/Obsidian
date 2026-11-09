@@ -401,3 +401,91 @@ For å sjekke svaret kan vi
 $$
 \frac{8cm \cdot 16cm}{2}=64cm^2
 $$
+
+![[Pasted image 20261102160325.png|400]]
+
+a) 
+$$
+V_{hele}=V_{rektangel}+V_{trekant}
+$$
+$$
+A_{rektangel}=1m \cdot (0.48m+1.047m) \cdot 1m
+$$
+$$
+A_{trekant} = \frac{1m \cdot 0.48m}{2} \cdot 1m = 0.24m^3
+$$
+b) 
+
+
+
+![[Pasted image 20261102162250.png|400]]
+
+$$
+\frac{x}{10.5}=\frac{2}{0.5}
+$$
+$$
+x = \frac{21}{0.5}=\frac{21}{\frac{1}{2}}=\frac{21}{1}:\frac{1}{2}=\frac{21}{1} \cdot \frac{2}{1}=42
+$$
+
+![[Pasted image 20261102162813.png|500]]
+
+$$
+\frac{25}{2.5} = \frac{x}{200}
+$$
+$$
+\frac{5000}{2.5}=2000 = x
+$$
+![[Pasted image 20261109161146.png]]
+
+$$
+\frac{1.8 \cdot 120}{24} =9= h 
+$$
+$$
+12^2+9^2 = s^2
+$$
+$$
+144+81 = s^2
+$$
+$$
+225 = s^2
+$$
+$$
+15 = s
+$$
+![[Pasted image 20261109161815.png]]
+
+a) 
+Bruker pytagoras
+$$
+4^2 +3^2 = h^2
+$$
+$$
+16+9 = h^2
+$$
+$$
+25 = h^2
+$$
+$$
+5 = h
+$$
+b)
+Dette er en likebeint trekant fordi to av sidene er like lange og den siste ikke er det. 
+
+
+d) 
+Her tar vi: 
+$$
+10 \cdot 5 \cdot 2 = 100m^2
+$$
+![[Pasted image 20261109163007.png]]
+
+$$
+\frac{1}{12}=\frac{0.6}{x}
+$$
+$$
+\frac{x}{12}=0.6
+$$
+$$
+x = 7.2
+$$
+Rampen må minst være 7.2 meter lang. 
