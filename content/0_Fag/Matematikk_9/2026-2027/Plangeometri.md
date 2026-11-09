@@ -368,3 +368,9 @@ $$
 $$
 2.12m = h
 $$
+![[Pasted image 20261109170421.png|400]]
+
+$$
+BC = 2AB = 4.2cm \cdot 2 = 8.4cm
+$$
+I en trekant med 30, 60 og 90 grader er alltid den korteste kateten halvparten så stor som hypotenusen. 
