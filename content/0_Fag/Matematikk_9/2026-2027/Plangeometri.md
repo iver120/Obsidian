@@ -24,7 +24,9 @@ d) Hva er $F_n$-formelen for dette mønsteret?
 
 $$ F_1 = 1 = 4 \cdot 1 - 3 $$ $$ F_2 = 5 = 4 \cdot 2 - 3 $$ $$ F_3 = 9 = 4 \cdot 3 - 3 $$
 
-$$ F_n = 4n - 3 $$
+$$ 
+F_n = 4n - 3 
+$$
 
 ![[Pasted image 20260921170608.png|400]]
 
@@ -32,13 +34,18 @@ $$ F_n = 4n - 3 $$
 
 Finn $F_n$-formelen for figuren:
 
-$$ F_n = 2n + 4 $$
+$$ 
+F_n = 2n + 4 
+$$
 
 ![[Pasted image 20260921170956.png|400]]
 
 a) +2
 
-c) $F_n = 2n$
+c) 
+$$
+F_n = 2n
+$$
 
 # Ulike polygoner = ulike mangekanter
 
